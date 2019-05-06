@@ -1,22 +1,25 @@
-# Resources and Documentation
+# Reflection and Discussion
 
-Below is a collection of resources of varying types and lengths which describe the topics for the upcoming lecture.  As you go through the readings each day, you'll find that certain sources work better for your reading and learning style. Focus on those, but also branch out and consume the material in different forms.
+Below is a collection of resources of varying types and lengths which describe the topics for the upcoming lecture.  
 
-**For your assignment, go through these resources, and create a wiki entry in your fork of the class repo that summarizes the principle topic as though you were presenting the material to an entry level developer.**
+Go through these resources, and create a page in your Learning Journal repo that summarizes the topics you learned as though you were presenting the material to a non-technical friend interested in learning about it.
 
 Wiki Entry Ideas:
 * Blog Article (2-3 paragraphs with code sample)
 * Dictionary / Flash Cards
 * Notes in outline form
+* Fill-in-the-blank worksheet of key concepts
 
 ## Read
-* [link name](https://...)
+* [link name](https)
 
 ## Skim
-* [link name](https://...)
+* [link name](https)
 
 ## Watch
-* [link name](https://...)
+* [link name](https)
 
 ## Bookmark
-* [link name](https://...)
+* [link name](https)
+
+Submit the assignment by copying the full text of your rendered web page, and pasting it into the Reply below, to share it with your classmates. Then look through other reflections, and share your thoughts and encouragement with others. 
