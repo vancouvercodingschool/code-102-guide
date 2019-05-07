@@ -4,16 +4,16 @@ This is the Facilitator's Guide for Code 102. This document is instructor-facing
 
 ## Index of Topics
 
-1. [Learning. Markdown.](./class-01/)
-1. [The Coder's Computer](./class-02/)
-1. [Revisions and the Cloud](./class-03/)
-1. [Just enough math, logic, and computer architecture](./class-04/)
-1. [Structure web pages with HTML](./class-05/)
-1. [Design web pages with CSS](./class-06/)
-1. [Activate web pages with JavaScript](./class-07/)
-1. [Programming with JavaScript](./class-08/)
-1. [Career Coaching](./class-09/)
-1. [201 Entrance Exam](./class-10/)
+1. [Learning. Markdown.](./curriculum/class-01/)
+1. [The Coder's Computer](./curriculum/class-02/)
+1. [Revisions and the Cloud](./curriculum/class-03/)
+1. [Just enough math, logic, and computer architecture](./curriculum/class-04/)
+1. [Structure web pages with HTML](./curriculum/class-05/)
+1. [Design web pages with CSS](./curriculum/class-06/)
+1. [Activate web pages with JavaScript](./curriculum/class-07/)
+1. [Programming with JavaScript](./curriculum/class-08/)
+1. [Career Coaching](./curriculum/class-09/)
+1. [201 Entrance Exam](./curriculum/class-10/)
 
 ## Approach to Instruction
 
