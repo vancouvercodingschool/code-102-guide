@@ -8,14 +8,14 @@ Use these resources to help you get going...
 
   - [Markdown on GitHub](https://help.github.com/en/articles/about-writing-and-formatting-on-github){:target="_blank"}
   - [Getting Started with GitHub Pages](https://guides.github.com/features/pages/){:target="_blank"}
-  
+
 ## Requirements
 
 1. Your site should exist at `https://YOUR-USERNAME.github.io`
 1. The "source" for your site should be README.md file, written with Markdown
 1. On the main page:
-  - Explain [growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset){:target="_blank"} in your own words
-  - Include 3 reminders to yourself of how to keep yourself in a growth mindset
+    - Explain [growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset){:target="_blank"} in your own words
+    - Include 3 reminders to yourself of how to keep yourself in a growth mindset
 1. Utilize at least 5 different features of Markdown to structure your page
 1. Be sure to introduce yourself, and include a link to your GitHub portfolio page
 
@@ -25,4 +25,6 @@ Beef up your profile page! Add an image, a bio, contact info... as much as you f
 
 ### Submission Instructions
 
-Share a link to your live site with your classmates, in the discussion below. Then, review the sites of your classmates, comment with what you learned from them. Click through to profile pages to "follow" each of your classmates.
+Share a link to your live site with your classmates, in the discussion below. 
+
+Then, review the sites of your classmates, comment with what you learned from them. Click through to profile pages to "follow" each of your classmates.

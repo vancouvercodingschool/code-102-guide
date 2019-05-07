@@ -1,11 +1,23 @@
-![cf](http://i.imgur.com/7v5ASc8.png) Class Topic
-===
+# Learning. Markdown.
+
+Welcome to Code 102! We will dive right in to learning new things. 
 
 ## Learning Objectives
-* Students will be able to...
+
+- Students will understand the impact of mindsets on the learning process, and know how to adjust their mindset for effective skill acquisition. 
+- Students will use essential Markdown syntax to create documents and publish a web site of interconnected pages using a Jekyll theme through GitHub Pages.
+- Students will publish a learning journal, to highlight skills gained during the course.
+
+## Agenda
+
+1. Campus Orientation & Intros
+1. Learning to Learn
+    - Growth mindset
+    - Problem solving
+1. Web Publishing
+    - Markdown
+    - GitHub Pages
 
 
-### Topic Notes
-- ...
+See class slides and assignments for details.
 
-### Code Samples, etc.

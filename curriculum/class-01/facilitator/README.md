@@ -6,7 +6,7 @@ Giving students the ability to push themselves into a growth mindset is the most
 
 ## Preparation
 1. Review the [Demo](../demo/) in the `demo` folder. 
-  - There is a video to play... Have a speaker ready to connect your laptop to, so it's loud enough. 
+    - There is a video to play... Have a speaker ready to connect your laptop to, so it's loud enough. 
 1. Review the [Lab assignment](../lab/) in the `lab` folder. 
 1. Familiarize yourself with the [Discussion assignment](../DISCUSSION.md).
 1. Practice going through the slide deck to ensure you are comfortable with the talking points outlined on each slide
