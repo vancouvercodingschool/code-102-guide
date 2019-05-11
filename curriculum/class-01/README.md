@@ -13,11 +13,10 @@ Welcome to Code 102! We will dive right in to learning new things.
 1. Campus Orientation & Intros
 1. Learning to Learn
     - Growth mindset
-    - Problem solving
+    - Demo & Lab
 1. Web Publishing
     - Markdown
     - GitHub Pages
-
 
 See class slides and assignments for details.
 

@@ -19,15 +19,15 @@ This is the Facilitator's Guide for Code 102. This document is instructor-facing
 
 The goal of Code 102 is to set people up for success in Code 201 and beyond. We want to see people aqcuire the skills necessary to handle the fast pace and sheer amount of new info they will experience. 
 
-To that end, this course will help people KNOW they can learn, and prepare them to do things that are "hard". There are a few cruciual skills we want them to pick up, so we break those down into small pieces, and provide the opportunity for repeated practice.  As an instructor, you will provide numerous, high-quality examples of the correct way to go things, so students can absorb your expertice. 
+To that end, this course will help people KNOW they can learn, and prepare them to do things that are "hard". There are a few cruciual skills we want them to pick up, so we break those down into small pieces, and provide the opportunity for repeated practice. As an instructor, you will provide numerous, high-quality examples of the correct way to go things, so students can absorb your expertice. 
 
-Each class session is supported by a slide deck, a discussion reflection (complete/incomplele), and a "lab" assignment that's verified with a quiz (rather than graded by a TA, as with other courses). 
+Each class session is supported by a slide deck, a discussion reflection (complete/incomplele), and a "lab" assignment (submitted as a discussion, so it's visible to peers) that's verified with a quiz (rather than graded by a TA, as with other courses). 
 
 Slides can be found in the [Team Drive](https://drive.google.com/drive/u/0/folders/1BkE_J6PXWVJ_3FlS7L24Jj4cGaPsNoek), and will have presenter notes to outline the intended discussion of each slide. 
 
-The reflection assignments let students engage with a supporting resources for the material (prior to class, if desired), and share learnings with classmates. Students will take their own notes, then post it to a discussion thread, to unlock visibility of other student's comments. 
+The reflection assignments let students engage with a supporting resources for the material (prior to class, if desired), and share learnings with classmates. Students will take their own notes in their learning journals, then post it to a discussion thread, to unlock visibility of other student's comments. 
 
-Lab assignments give some hands-on practice, but are ultimately ungraded in this class. Instead, students can verify they've gained the required experience by taking an auto-graded quiz (multiple-choice, matching, etc.). The quizzes are mean to be a formative assessment, so retakes are allowed, and highest scores are kept.  
+Lab assignments give some hands-on practice, but are ultimately ungraded in this class. Instead, students can verify they've gained the required experience by taking an auto-graded quiz (multiple-choice, matching, etc.). The quizzes are meant to be a formative assessment, so retakes are allowed, and highest scores are kept.  
 
 ## Running the Class
 
@@ -38,4 +38,3 @@ The Canvas course will be set up about 1 week prior to the start of class.
 Each class session is designed to be 3 hours long. This generally gives enough time to introduce a few new topics, while building the skills previously acquired. We call this "Stacked Learning", and it gives students the opportunity to continue to practice skills previously covered. 
 
 Each 3 hour class session should include 2 breaks, as close to the 1h and 2h marks as possible. 
-
