@@ -10,9 +10,21 @@ Journal entry ideas:
 * Notes in outline form
 * Comparison of "basic" text editor vs coding-specific text editor vs IDE.
 
-By the end, the reader of your journal page should understand the different classifications of text editors, and why it's important for software developers to be thoughtful about their selection of what they use to write code. 
-
 ## Read
-* [Choosing a Text Editor](https://medium.com/@theoldercoder/choosing-a-text-editor-3e56f71bd636){:target="_blank"}
+- [Choosing a Text Editor](https://medium.com/@theoldercoder/choosing-a-text-editor-3e56f71bd636){:target="_blank"}
+
+Document in your journal the different classifications of text editors, and why it's important for software developers to be thoughtful about their selection of what they use to write code. 
+
+## Follow Along
+
+The following pages will give you a step by step introduction to using a terminal. While it refers to Linux, the same commands are available in macOS and Windows (with WSL). Read through these pages carefully, and if you can, try using your terminal in the same way. 
+
+- [The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php){:target="_blank"}
+- [Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php){:target="_blank"}
+- [About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php){:target="_blank"}
+
+Record in your journal a "cheat sheet" or other resource for basic terminal usage. 
+
+## Share Your Learnings
 
 Submit the assignment by copying the full text of your rendered web page, and pasting it into the Reply below, to share it with your classmates. Then review the other replies, and share your thoughts and encouragement with others. 
