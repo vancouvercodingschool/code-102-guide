@@ -23,4 +23,12 @@ See [Slide Deck](https://docs.google.com/presentation/d/1A5HceeyBY6iZ-yEidix8lI2
 
 ## Expected Student Questions and Challenges
 
+### Command Line Errors
+
+Students aren't used to using the terminal, so it's very hard for them to distinguish between a command running correctly, and it failing with an error message. 
+
+### WSL
+
+Windows users have an extra set of steps to get the Ubuntu command line installed. Make it very clear: They don't need to conceptually grasp all they are doing. But it is important to carefully work through the steps regardless. 
+
 ## Miscellaneous Comments and Notes
