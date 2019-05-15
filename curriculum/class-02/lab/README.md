@@ -4,7 +4,7 @@ Having the right tool can make a "hard" thing suddenly much more achievable. Set
 
 ## Setup and Documentation
 
-Follow the [Computer Setup Guide](https) to prepare your development machine for serious coding. 
+Follow the [Computer Setup Guide](http://codefellows.github.io/code-201-prework/prework/) to prepare your development machine for serious coding. 
 
 This requires carefully following instructions, and potentitally interpreting esoteric error messages. Practice those detail-oriented skills! Take things slowly, and if things go wrong, don't hesitate to get help. 
 
