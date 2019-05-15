@@ -4,7 +4,7 @@ Having the right tool can make a "hard" thing suddenly much more achievable. Set
 
 ## Setup and Documentation
 
-Follow the [Computer Setup Guide](http://codefellows.github.io/code-201-prework/prework/) to prepare your development machine for serious coding. 
+Follow the [Computer Setup Guide](http://codefellows.github.io/code-201-prework/prework/){:target="_blank"} to prepare your development machine for serious coding. 
 
 This requires carefully following instructions, and potentitally interpreting esoteric error messages. Practice those detail-oriented skills! Take things slowly, and if things go wrong, don't hesitate to get help. 
 
@@ -28,8 +28,8 @@ Furthermore, the following commands will show you how you have a few key items c
 
 ### Stretch Goals
 
-
+Now that you've got your spiffy Terminal up and running, go back through the Reading assignment, and follow along with your own verison of the commands, on your computer. 
 
 ### Submission Instructions
 
-
+Paste in below the results of running the above commands. Help review your classmates' submissions to look for any potential errors. 
