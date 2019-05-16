@@ -16,13 +16,11 @@ By the time you've completed the guide, you should be able to run the following 
 - `git --version`
 - `npm --version`
 - `eslint --version`
-- `live-server --version`
 - `tree --version`
 
 Furthermore, the following commands will show you how you have a few key items configured
 
 - `echo $PS1`
-- `ls ~/codefellows`
 - `cat ~/.gitconfig`
 
 
