@@ -11,16 +11,25 @@ Journal entry ideas:
 * Fill-in-the-blank worksheet of key concepts
 
 ## Read
-* [link name](https){:target="_blank"}
+
+Let's crack open that book! These chapters are selected to be in this order for a very particular reason. Don't worry that you are not starting at the beginning of the book. 
+
+- Duckett: HTML & CSS, Chapter 18 - Process & Design
+  - For Lab, you'll be building a site from scratch. 
+  - Think about what kind of page you want to design.
+  - For now, focus mostly on the process. Take notes on the high-level process you'd want to follow to make a new site.
 
 ## Skim
-* [link name](https){:target="_blank"}
+- Duckett: HTML & CSS, Chapter 1: Structure
+  - If you've taken Code 101, this should be mostly review
+  - If you have NOT taken Code 101, please read this chapter a little more carefully. 
 
-## Watch
-* [link name](https){:target="_blank"}
+## Read
+- Duckett: HTML & CSS, Chapter 17 - HTML5 Layout
+  - Note how these elements are common to the vast majority of web pages
+- Duckett: HTML & CSS, Chapter 8 - Extra Markup
 
-## Bookmark
-* [link name](https){:target="_blank"}
+Add what you learn in all thse readings to your LJ web site, using your git-flow skills!
 
 ## Share Your Learnings
 
