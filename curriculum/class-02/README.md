@@ -1,23 +1,26 @@
 # The Coder's Computer
 
 > The computer is a bicycle for the mind.
+>
 > —Steve Jobs
 
 ## Learning Objectives
 
-- Students will configure their computers for professional software development, setting up a command line interface (Terminal) and installing VS Code and git. 
+- Students will configure their computers for professional software development, setting up a command line interface (Terminal) and installing VS Code, git, NodeJS, npm, and more. 
 - Students will be able to articulate the benefits of writing code in a code editor as opposed to general-purpose document creation software.
 - Students will navigate folders and create files from the command line, while verifying their work in the operating system's GUI file explorer. 
 
 
 ### Topic Notes
 
-- Computer Setup
-  - Configuration prep
-  - Install-fest lab! 
-- Coder's tools
+- Review of previous class
+  - Share your learning
+- Developer Tools
+  - Text Editor
   - Terminal
-  - Git
-  - VS Code
+- Discussion Exercise
+  - Installfest! 
+  - Operating Systems
+  - Lab: Install and Configure
 
-See class slides and assignments for details.
+See class slides and assignments for further details.
