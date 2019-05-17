@@ -16,6 +16,9 @@ Clone down your learning journal repo to your local computer, so you can do all 
     - The home page should contain only an intro, and a Table of Contents.
     - Each topic you've written about should have it's own page
     - Use Markdown to create a link from the ToC to the topic's page
+1. Keep a clean git history
+    - After every meaningful change, A-C-P. 
+    - Write commit messages that explain WHY you made your changes, not what the changes were. 
 
 ### Stretch Goals
 
