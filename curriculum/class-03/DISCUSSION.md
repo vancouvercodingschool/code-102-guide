@@ -11,16 +11,9 @@ Journal entry ideas:
 * Fill-in-the-blank worksheet of key concepts
 
 ## Read
-* [link name](https){:target="_blank"}
 
-## Skim
-* [link name](https){:target="_blank"}
-
-## Watch
-* [link name](https){:target="_blank"}
-
-## Bookmark
-* [link name](https){:target="_blank"}
+- [Git Intro](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#7){:target="_blank"}
+  - Read only up through the section called "Seeing Your Remote".
 
 ## Share Your Learnings
 
