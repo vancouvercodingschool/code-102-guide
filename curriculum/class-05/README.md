@@ -1,11 +1,25 @@
-![cf](http://i.imgur.com/7v5ASc8.png) Class Topic
-===
+# Style Web Pages with CSS 
 
 ## Learning Objectives
-* Students will be able to...
 
+- Students will understand the role of CSS in creating a complete web page.
+- Students will know how to use a tool to generate a reasonable color theme to apply to a web site design.
+- Students will apply colors to a wireframe to bring out the vibrancy of a web page, controlling text color, background color, and box-model colors. 
 
-### Topic Notes
-- ...
+### Class Agenda
 
-### Code Samples, etc.
+- Review of previous class
+  - Share your learning
+- CSS
+  - Recap from Code 101
+  - Discussion Exercise
+- From Mockup to Markup
+  - Demo
+  - Lab: Wireframe and Build
+
+### Vocabulary
+
+- RGB
+- HSL
+- CSS
+- Layout

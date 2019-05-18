@@ -1,17 +1,28 @@
 # Facilitators Guide: Topic
 
-Overview ...
+if/else
+
+prompt / document.write
+
 
 ## Preparation
-1. Review the [README](../demo/) in the `demo` folder
+1. Review the Reading, the Lab, and the Demo code
 
 ## Lecture Main Topics & Overall Flow
 * [Slide Deck](https://docs.google.com/presentation/d/1NlKlBgC3bN0r1zmwrVD5eREgQk-KiloFsJhT7Uy0n10/edit)
-  * Topic 1
-  * Topic 2
-    * More stuff
-      * Wow!
+- Review of previous class
+  - Share your learning
+- JavaScript
+  - Recap from Code 101
+  - Discussion Exercise
+- From Mockup to Markup
+  - Demo: Input and Output
+  - Lab: Plan and Build
 
 ## Expected Student Questions and Challenges
 
+TBD 
+
 ## Miscellaneous Comments and Notes
+
+TBD

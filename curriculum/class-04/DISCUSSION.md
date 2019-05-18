@@ -29,7 +29,9 @@ Let's crack open that book! These chapters are selected to be in this order for 
   - Note how these elements are common to the vast majority of web pages
 - Duckett: HTML & CSS, Chapter 8 - Extra Markup
 
-Add what you learn in all thse readings to your LJ web site, using your git-flow skills!
+Add what you learn in all thse readings to your LJ web site, using VS Code and your git-flow skills! 
+
+In fact, from this point on, all your learning journal assignments should be done locally, in VS Code.
 
 ## Share Your Learnings
 

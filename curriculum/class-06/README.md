@@ -1,11 +1,23 @@
-![cf](http://i.imgur.com/7v5ASc8.png) Class Topic
-===
+# Dynamic Web Pages with JavaScript
 
 ## Learning Objectives
-* Students will be able to...
+- Students will incorporate JavaScript into a web page to create dynamic content that responds to input
+- Students will create code that uses logical branching and basic conditionals to determine the outcome of content on a web page. 
 
+### Class Agenda
 
-### Topic Notes
-- ...
+- Review of previous class
+  - Share your learning
+- JavaScript
+  - Recap from Code 101
+  - Discussion Exercise
+- From Mockup to Markup
+  - Demo: Input and Output
+  - Lab: Plan and Build
 
-### Code Samples, etc.
+### Vocabulary
+
+- JavaScript
+- conditionals
+- data types
+- variable

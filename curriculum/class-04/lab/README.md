@@ -22,11 +22,8 @@ Partner up. Decide on what kind of web site you want to build. Each person will 
     - You don't need full sentences, but at least a plan for each area of each page.
 1. Have your instructor review your wireframe and html plan.
 1. Write the code!
-    - Create a single repository to work from. 
-      - Add all partners as collaborators.
-      - Each person clones the repo to their own local machine.
-      - Each person works only in their own file. 
-    - Work together to write the html file for each page in your site. 
+    - Each partner create a new repository to work from. 
+    - Work together to write the html files for each page in your site. 
     - Everyone should end up with their own file containing basically the same html tags, in the same order, but with different verbiage displaying on the page.
     - Link up the pages, so a user can click through to see everything. 
 
