@@ -10,8 +10,13 @@ Journal entry ideas:
 * Notes in outline form
 * Fill-in-the-blank worksheet of key concepts
 
-## Read
+## Skim?
 - Duckett: HTML & CSS, Chapter 10: Introducing CSS
+  - If you took Code 101, this should be familiar.
+  - If you didn't take Code 101, read this deeply enough to get familiar. 
+
+## Read
+- Duckett: HTML & CSS, Chapter 11: Color
 
 ## Share Your Learnings
 
