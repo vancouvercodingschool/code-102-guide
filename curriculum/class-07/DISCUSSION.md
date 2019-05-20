@@ -11,16 +11,14 @@ Journal entry ideas:
 * Fill-in-the-blank worksheet of key concepts
 
 ## Read
-* [link name](https){:target="_blank"}
 
-## Skim
-* [link name](https){:target="_blank"}
+Focus strictly on the selected pages. Don't let the surrounding sections distract you (you'll go deeper there in Code 201). 
 
-## Watch
-* [link name](https){:target="_blank"}
+- Duckett: JavaScript & jQuery:
+  - Intro + Scripts: Pages 1 - 24
+  - Expressions + Operators: 74 - 79
+  - Functions: 88 - 94
 
-## Bookmark
-* [link name](https){:target="_blank"}
 
 ## Share Your Learnings
 
