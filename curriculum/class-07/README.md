@@ -11,7 +11,7 @@
   - Share your learning
 - Programming...
   - Steps to Success
-  - Discussion Exercise
+  - Discussion Reading
 - ...With JavaScript
   - Demo: Functions
   - Lab: Refactoring
