@@ -21,4 +21,9 @@
 - Markup
 - Semantics
 - Wireframe
+- Personas
 - Meta
+- Content
+- Element
+- Tag
+- Structure vs Presentation
