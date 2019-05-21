@@ -13,7 +13,7 @@ Clone down your learning journal repo to your local computer, so you can do all 
     - Fix any errors
     - Bulk up any areas that look thin
 1. Build out your site structure
-    - The home page should contain only an intro, and a Table of Contents.
+    - The home page should contain only your intro, and a Table of Contents.
     - Each topic you've written about should have it's own page
     - Use Markdown to create a link from the ToC to the topic's page
 1. Keep a clean git history

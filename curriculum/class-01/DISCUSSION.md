@@ -11,13 +11,13 @@ Journal entry ideas:
 * Fill-in-the-blank worksheet of key concepts
 
 ## Read
-* [Mastering Markdown on GitHub](https://guides.github.com/features/mastering-markdown/){:target="_blank"}
+- [Mastering Markdown on GitHub](https://guides.github.com/features/mastering-markdown/){:target="_blank"}
 
 ## Watch
-* [GitHub Pages](https://www.youtube.com/watch?v=2MsN8gpT6jY){:target="_blank"}
+- [GitHub Pages](https://pages.github.com/){:target="_blank"}
 
 ## Bookmark
-* [GitHub Markdown Resources](https://help.github.com/en/articles/about-writing-and-formatting-on-github){:target="_blank"}
+- [GitHub Markdown Syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax){:target="_blank"}
 
 ## Share Your Learnings
 

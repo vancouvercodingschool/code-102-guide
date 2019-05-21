@@ -14,6 +14,7 @@ By the time you've completed the guide, you should be able to run the following 
 
 - `code --version`
 - `git --version`
+- `node --version`
 - `npm --version`
 - `eslint --version`
 - `tree --version`

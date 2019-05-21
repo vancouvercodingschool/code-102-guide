@@ -6,7 +6,7 @@ Students are going to tell you how to create a brand-new web site with GitHub Pa
 
 1. Tell students you are going to collaboratively setup a new web site. 
     - Explain that you will "drive" (operate the computer), 
-    - but they should "navigage" (tell you what steps to take).
+    - but they should "navigate" (tell you what steps to take).
 1. Tell them you've heard of this thing called GitHub Pages that makes it "easy". 
 1. ASK: If you have no idea how to do this, how would you start?
     - Take suggestions from students

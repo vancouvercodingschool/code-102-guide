@@ -13,7 +13,7 @@ Journal entry ideas:
 ## Read
 
 - [Git Intro](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#7){:target="_blank"}
-  - Read only up through the section called "Seeing Your Remote".
+  - Read only up through the section called **"Seeing Your Remote"**.
 
 ## Share Your Learnings
 

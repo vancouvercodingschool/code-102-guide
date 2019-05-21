@@ -15,7 +15,7 @@ Journal entry ideas:
 
 Document in your journal the different classifications of text editors, and why it's important for software developers to be thoughtful about their selection of what they use to write code. 
 
-## Follow Along
+## Read Carefully
 
 The following pages will give you a step by step introduction to using a terminal. While it refers to Linux, the same commands are available in macOS and Windows (with WSL). Read through these pages carefully. Don't worry about trying this out on your own system yet, that will come very soon. For now, take notes on how commands are used, and which look analagous to how you are used to using the GUI File Explorer/Finder.
 

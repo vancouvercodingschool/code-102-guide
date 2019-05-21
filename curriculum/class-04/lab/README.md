@@ -1,6 +1,6 @@
 # HTML-Only Web Site from Scratch
 
-While GitHub pages has been helpful, it's time we go back to creating our web pages from scratch, by hand, line by line. 
+We now know that Markdown + themed GitHub Pages is powerful for creating quick sites! To embrace the next level of challenge, it's time we go back to crafting our web pages from scratch, by hand, line by line. 
 
 ## Setup and Documentation
 

@@ -4,6 +4,8 @@ Students will think about programming at a higher level: as a sequence of steps.
 
 ## Preparation
 1. Review the learning objectives, reading, demo, and lab.
+1. To execute example JS in VSCode, install:
+    - https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner
 1. Bring a sweatshirt or coat to use for illustrating the importance of writing good steps.
 1. Ensure you have working example code, built up from the previous days, that you can refactor with functions. 
 
