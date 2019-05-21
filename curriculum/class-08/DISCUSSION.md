@@ -10,17 +10,13 @@ Journal entry ideas:
 * Notes in outline form
 * Fill-in-the-blank worksheet of key concepts
 
-## Read
-* [link name](https){:target="_blank"}
-
-## Skim
-* [link name](https){:target="_blank"}
-
 ## Watch
-* [link name](https){:target="_blank"}
 
-## Bookmark
-* [link name](https){:target="_blank"}
+Check out these great explainer videos, in order. In less than 30 minutes, you'll gain new insights into how computers are actually working!
+
+- [How Computers Work - Playlist](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-){:target="_blank"}
+
+Sincere thanks to Code.org for producing these very watchable videos.
 
 ## Share Your Learnings
 
