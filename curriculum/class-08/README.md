@@ -2,6 +2,7 @@
 
 ## Learning Objectives
 - Students will explain how computers work, using technical terminology, at more than one level of detail. 
+- Students will implement `for` and `while` loops to accomplish meaningful tasks in their code. 
 
 ### Class Agenda
 

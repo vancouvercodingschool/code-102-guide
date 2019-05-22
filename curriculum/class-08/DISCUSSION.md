@@ -16,7 +16,7 @@ Check out these great explainer videos, in order. In less than 30 minutes, you'l
 
 - [How Computers Work - Playlist](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-){:target="_blank"}
 
-Sincere thanks to Code.org for producing these very watchable videos.
+Sincere thanks to Code.org for producing these videos.
 
 ## Share Your Learnings
 

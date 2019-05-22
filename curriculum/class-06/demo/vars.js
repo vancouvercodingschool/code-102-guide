@@ -32,12 +32,9 @@ console.log(difference);
 console.log(3 % 3);
 console.log(3 % 2);
 // because I just learned a new acronym: PEMDAS (order of operations) - these are the same in javascript
-console.log(3 + (2 - 1) / 4 + (2 * 3));
+console.log(3 * (5 - 1) / 4 + (2 * 3));
 
 // we can have numbers in a variable name, but we can't start a variable name with a number
 var ihaveanumber2 = "foo";
 var ihavea333number = "bar";
 console.log(ihavea333number);
-
-
-

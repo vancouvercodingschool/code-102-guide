@@ -2,7 +2,7 @@
 
 ## Learning Objectives
 - Students will incorporate JavaScript into a web page to create dynamic content that responds to input
-- Students will create code that uses logical branching and basic conditionals to determine the outcome of content on a web page. 
+- Students will replicate code that uses logical branching and basic conditionals to determine the outcome of content on a web page. 
 
 ### Class Agenda
 
@@ -19,5 +19,5 @@
 
 - JavaScript
 - conditionals
-- data types
+- data type
 - variable

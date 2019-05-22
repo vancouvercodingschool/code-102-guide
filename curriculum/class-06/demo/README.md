@@ -23,6 +23,6 @@ Now do something more meaningful in a file:
 1. Have the class navigate you through adding a second dynamic component to your site. 
 
 Some ideas:
-- Prompt for username, and show it in a greeting.
+- Prompt for user's name, and show it in a greeting.
 - Prompt for age or birthdate, and show selective content based on age
 - Prompt for the user's city or state, and, for certain values, give specific info (Ranking? Weather guess?). 
