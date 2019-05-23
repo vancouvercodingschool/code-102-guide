@@ -1,28 +1,37 @@
-# Demo: JavaScript
+# Demo: JavaScript in Action
 
 ## Demo Instructions
 
-Show JavaScript in action. 
-1. Start with showing that it can work in the browser, and in VS Code
-1. Show how to install the CodeRunner extention. 
-1. Live-code something similar to what you see in `vars.js`, to lead a discussion of basic operators. 
-1. Highlight how reading error messages gives good hints. 
+Students should have completed the code exercise from page 46-48 in the JavaScript & jQuery book. Now it's time to code review it! 
 
-Now do something more meaningful in a file:
+The code is here in the demo directory. Open `add-content.html` in your browser. 
 
-1. Start with adding a script tag to your html
-1. Show the error that you get when the file doesn't exist. 
-1. Now create the file. Show that it works, but does nothing. 
-1. Add something to the file. It can console.log now! That's output in the browser, but not in the page...
-1. Add `document.write()` to get something in the page.
-1. Now customize what is written with some dynamic input:
-    - `Date()` data. 
-    - `Math.random()`
-    - `location.hash.substr(1)` gets url.com/#data
-    - `prompt()` function
-1. Have the class navigate you through adding a second dynamic component to your site. 
+If a student can report on an error they hit when creating the code, replicate it in your editor, and show them how the console will report the error, the file, and the line number. Highlight how reading error messages gives good hints as to what's wrong!
 
-Some ideas:
+The code showcases a lot that beginners need to focus on like variables, assignments, conditionals, function calls (`today.getHours()`, `document.write()`). 
+
+Have students read the code, 1 line per student. Ask them to first read it literally as possible, and THEN interpret what it is doing. Help them get all the jargon correct ("opening curly brace", etc), and give them new terms as you hit them. 
+
+Be sure to give a clear definition for:
+- variable
+- assignment operator
+- conditional statement
+- code block
+- data types: strings vs numbers
+- string literal, number literal
+
+As you go through the code, show off live JS in the console. Explain briefly what a REPL is, and show them that you can do math, string concatenation, etc very easily. 
+ 
+Discuss how this running program is made up of:
+1. input
+    - Ask students to identify the input
+    - Show alternative input: `hourNow = prompt()`; 
+1. processing (in this case, conditional generation of dynamic content)
+1. output
+    - Ask students to identify the output
+    - Show alternative method of output: `console.log()`
+
+Ask students how they'd like to integrate dynamic content in their site. Some ideas:
 - Prompt for user's name, and show it in a greeting.
 - Prompt for age or birthdate, and show selective content based on age
 - Prompt for the user's city or state, and, for certain values, give specific info (Ranking? Weather guess?). 
