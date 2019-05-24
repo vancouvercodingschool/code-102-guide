@@ -15,8 +15,8 @@ These assignments generally require action on your part to complete them. You do
 - [Take the Assessment](https://codefellows.github.io/common_curriculum/career_coaching/Professional_Competency_Self-Assessment){:target="_blank"}
 
 ## Prepare
-- [Your Resumé Document](https://codefellows.github.io/common_curriculum/career_coaching/Code_201/Prepare_Your_Resume){:target="_blank"}
 - [Your LinkedIn Profile](https://codefellows.github.io/common_curriculum/career_coaching/Code_201/Prepare_Your_LinkedIn){:target="_blank"}
+- [Your Resumé Document](https://codefellows.github.io/common_curriculum/career_coaching/Code_201/Prepare_Your_Resume){:target="_blank"}
 
 ## Share Your Learnings
 
