@@ -1,6 +1,6 @@
-# Career Coaching
+# Javascript Arrays & Objects
 
 ## Learning Objectives
-- Students will configure their presence on LinkedIn to professional standards. 
-- Students will create a placeholder resumé from a template, to be updated with project info throughout their time as a student. 
-- Students will self-assess for professional competencies, to understand their strengths and growth areas of professionalism across a range of distinctive skills. 
+- Students will work with lists of values. 
+- Students will use a for-loop to iterate through all items in an array. 
+- Students will create object-literals to associate keys with values. 

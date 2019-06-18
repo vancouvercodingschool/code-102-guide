@@ -1,3 +1,0 @@
-# Demo: Topic
-
-## Demo Instructions

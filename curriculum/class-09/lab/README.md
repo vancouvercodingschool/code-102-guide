@@ -1,4 +1,4 @@
-# Lab Assignment: Topic
+# Lab Assignment: TBD
 
 ## Setup and Documentation
 
