@@ -16,7 +16,6 @@ Journal entry ideas:
   - Arrays: Pages 70 - 73
   - Objects: Pages 100 - 107, 116 - 119. 
 
-
 ## Share Your Learnings
 
 Submit the assignment by copying the full text of your rendered web page, and pasting it into the Reply below, to share it with your classmates. Then review the other replies, and share your thoughts and encouragement with others. 

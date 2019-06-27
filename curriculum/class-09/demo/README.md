@@ -1,5 +1,7 @@
-# Career Coaching
+# Demo: JavaScript in Action
 
 ## Demo Instructions
 
-No demo required. If your LinkedIn page is in good shape, show it off! 
+Continue building on the example code from the book. 
+
+Use a while loop for input validation (looping an unknown number of times), and then adding a specified number of items to the page. 

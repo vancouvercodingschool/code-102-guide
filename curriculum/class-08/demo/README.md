@@ -1,5 +1,7 @@
-# Demo: CSS
+# Demo: JavaScript in Action
 
 ## Demo Instructions
 
-Continue working on the class's web site from the last class. Make a plan for what you want to validate, and how you want to include creating a number of items.
+Continue building on the example code from the book. 
+
+Use a while loop for input validation (looping an unknown number of times), and then adding a specified number of items to the page. 
