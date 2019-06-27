@@ -16,9 +16,11 @@
 
 ### Vocabulary
 
-- loop
-- while
-- for
-- condition
-- increment
-- decrement
+- array
+- index
+- length
+- push
+- object
+- property
+- dot notation
+- data modeling
