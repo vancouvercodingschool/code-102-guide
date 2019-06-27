@@ -1,4 +1,4 @@
-# Facilitators Guide: Topic
+# Facilitators Guide: Arrays and Objects
 
 Today we introduce arrays and objects. Use lots of analogies.
 
