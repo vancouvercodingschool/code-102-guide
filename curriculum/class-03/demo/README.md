@@ -4,6 +4,8 @@
 
 Follow along with the presenter notes in the slides, to have students work through their first ACP cycles. 
 
-Show updating an existing file. 
+Then, demo the process again, on your own machine. 
 
-Show adding a new file. 
+Show the full cycle to update an existing file. 
+
+Show the full cycle to add a new file. Include a markdown link back to the original file. 

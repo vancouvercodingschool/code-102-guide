@@ -1,6 +1,12 @@
 # Facilitators Guide: Topic
 
-Overview ...
+Class 3 introduces students to git, GitHub, and git-flow. 
+
+This is a little more slide-heavy than other classes. Students can follow along with the slides to make a repo, clone it, edit a file, and push it back up to see it deployed. 
+
+After you run the slides, recap the process by demoing it on your own machine. 
+
+Students will then complete the lab (cloning their Learning Journal), and then the reading assignment (adding a page to their LJ with notes on git).
 
 ## Preparation
 1. Review the [README](../demo/) in the `demo` folder

@@ -2,6 +2,8 @@
 
 Semantic HTML tags FTW!
 
+Rather than lecturing on HTML, the class will tell you what they know. Use the discussion time to highlight a few common tags, and emphasis that HTML is about structuring pages with semantic tags. 
+
 ## Preparation
 1. Review the Reading Discussion, the Demo, and the Lab assignment. 
 
