@@ -2,6 +2,8 @@
 
 Students will think about programming at a higher level: as a sequence of steps. This works great with the concept of functions, because of how functions encapsulate a set of steps to get something done.
 
+You'll run a fun in-class exercise to emphasize just how exactly a computer will do what its told. Having struggled with making a little JS work, students will likely relate to the precision needed in communicating with the computer to teach it new things. 
+
 ## Preparation
 1. Review the learning objectives, reading, demo, and lab.
 1. To execute example JS in VSCode, install:

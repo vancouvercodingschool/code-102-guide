@@ -26,7 +26,7 @@ var howMany = function() {
   return Number(count);
 }
 
-var showAll = function() {
+var showOrder = function() {
   var total = howMany();
   var result = '';
 

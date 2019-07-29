@@ -20,4 +20,4 @@ Using only conditionals and functions, write code to execute a specific action (
 
 ### Submission Instructions
 
-Submit a link to a part of the code you are most proud of. Explain here how it came to be, and why you like it. Check out what your classmates did! 
+Share in the discussion a part of the code you are most proud of. Explain here how it came to be, and why you like it. Check out what your classmates did! 

@@ -23,7 +23,7 @@ Partner up. Decide on a topic for the web site you want to build. Each person wi
 1. Have your instructor review your wireframe and html plan.
 1. Write the code!
     - Each partner create a new repository to work from. 
-    - Work together to write the index.html files for the deployed repo. 
+    - Work together to write the `index.html` files for the deployed repo. 
     - Each partner should end up with their own file containing basically the same html tags, in the same order, but with different content within the tags.
     - Link up the pages, so a user can click through to see everything. 
 
