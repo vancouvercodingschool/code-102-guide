@@ -1,6 +1,8 @@
 # Code 102: Intro to Software Development
 
-This is the Facilitator's Guide for Code 102. This document is instructor-facing.  
+This is the Facilitator's Guide for Code 102. This document is instructor-facing. 
+
+All top level resources are outlines in the [Guide Doc](https://docs.google.com/document/d/1QXPjUWIDARerOch8qAlIUeqICTt_3zTWzkWsomhaiSY/edit)
 
 ## Index of Topics
 
