@@ -20,8 +20,21 @@ CSS recap and focus on Color.
 
 ## Expected Student Questions and Challenges
 
-Students might struggle to get their external CSS files connected to their HTML file. 
+- Students might struggle to get their external CSS files connected to their HTML file
+- When shown floats, breakage happens.  Embrace the debugging opportunities
 
 ## Miscellaneous Comments and Notes
 
-TBD
+- helpful wireframe inclusions:
+  - header:
+    - heading
+    - nav / ul / li 
+    - *note css opportunity class-05*: to use `float: right` on the nav and `display: inline-block` for horizontal list
+  - main: 
+    - section with articles
+    - each article could have an h3, image, and description.  
+    - *note css opportunity class-05*: style with or without floats and center content
+  - footer: 
+    - copyright - symbol insertion
+    - sitemap - nav / ul / li
+    - *note css opportunity class-05*: vertical nav/sitemap with links
