@@ -20,13 +20,13 @@ Students are going to tell you how to create a brand-new web site with GitHub Pa
 ### Steps to eventually follow
 
 1. You'll need to be signed in to GitHub
-1. Create a new repo, named `USERNAME.github.io`
+1. Create a new repo, named `learning-journal`
     - If you already have something there, move it, or use a burner account.
 1. Include a README when making the repo
 1. Publish with GH pages, pick a theme you like
 1. Check out your fancy new live site!
-    - Raw content visible at: `https://USERNAME.github.io/README.md`
-    - Rendered, themed page at: `https://USERNAME.github.io`
+    - Raw content visible at: `https://USERNAME.github.io/REPO-NAME/learning-journal/README.md`
+    - Rendered, themed page at: `https://USERNAME.github.io/learning-journal/`
 1. Modify the Markdown, and see the changes get deployed (after about a min)
 1. Convert the content into a home page for a learning journal
     - Briefly introduce yourself, and link to your GitHub profile

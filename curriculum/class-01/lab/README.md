@@ -11,7 +11,7 @@ Use these resources to help you get going...
 
 ## Requirements
 
-1. Your site should exist at `https://YOUR-USERNAME.github.io`
+1. Your site should exist at `https://USERNAME.github.io/learning-journal/`
 1. The "source" for your site should be README.md file, written with Markdown
 1. On the main page:
     - Explain [growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset){:target="_blank"} in your own words
