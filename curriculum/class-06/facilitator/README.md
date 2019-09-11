@@ -1,8 +1,8 @@
 # Facilitators Guide: Topic
 
-if/else
+Conditional logic with `if` & `else`
 
-prompt / document.write
+Input and output with `prompt` & `document.write`
 
 
 ## Preparation
