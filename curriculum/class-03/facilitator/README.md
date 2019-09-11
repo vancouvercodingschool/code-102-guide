@@ -34,3 +34,11 @@ If `root` owns `.profile`, git won't work.
 
 
 ## Miscellaneous Comments and Notes
+- Reinforce git vs github.
+  - git is the 'sport', and GitHub is the 'public arena'
+- TODO may look something like this:  
+  - Set up `learning-journal` repo with students during demo.  
+  - Choose Jeykll theme, and do a pull.
+  - Create `git-github-notes.md` locally, make a change, and ACP
+
+- Reading may be a deeper dive than necessary, but information may be valuable for reference.  For example, setup is already done and `git init` is not necessary if creating a repo as instructed.  Perhaps encourage an external link to reading in the markdown file

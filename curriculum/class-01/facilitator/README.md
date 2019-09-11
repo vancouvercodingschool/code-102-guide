@@ -1,6 +1,6 @@
 # Facilitators Guide: Topic
 
-Kick off the class with a campus orientation. This melds into an exercise in learning, and gaining new skills with Markdown. 
+Kick off the class with a campus orientation & welcome. This melds into an exercise in learning, and gaining new skills with Markdown. 
 
 Giving students the ability to push themselves into a growth mindset is the most important thing you can teach them in this whole course. So that is where we start. 
 
@@ -16,11 +16,11 @@ Note that, for today, students will do the lab assignment before the discussion 
 
 ### Schedule for the day
 
-Usually, the discussion assignment is done prior to class, but since this is class 1, it's not assigned ahead of time. Rather, the Lab assignment tracks with the in-class demo (to create a learning journal). Then the discussion assignment provides the first journal entry (on the topic of Markdown), which can also be done as an in-class lab.
+Usually, discussion assignments are completed in class before lab assignments, but since this is class 1, that is not the case. For Example, today's Lab assignment tracks with the in-class demo (to create a learning journal). Then the discussion assignment provides the first journal entry (on the topic of Markdown), which is also done as an in-class assignment.
 
 ## Lecture Main Topics & Overall Flow
 
-In the Lab assignment, students will create their own learning journal, written in Markdown, deployed with GitHub Pages. Students will build out this web site as they work their way through Code 102. Your goal in lecture is to help them understand how the can learn new things, even when they don't have clear instructions. 
+In the Lab assignment, students will create their own learning journal, written in Markdown, deployed with GitHub Pages. Students will build out this web site as they work their way through Code 102. Your goal in lecture is to help them understand how they can learn new things, even when they don't have clear instructions. 
 
 Remember, the best teaching style is "extemporaneous presentation from an outline". The slide deck provided is meant to be the outline of lecture, for you to talk through with your own words. 
 
@@ -43,6 +43,6 @@ Prepare them for the ambiguity by teaching them how to put themselves into a gro
 
 At some point in the day, verify each student's computer has the latest operating system, and all security patches installed. 
 
-Hypothsis: Teaching adults is really about facilitating an environment where they become interested in teaching themselves new skills. 
+Hypothesis: Teaching adults is really about facilitating an environment where they become interested in teaching themselves new skills. 
 
 You are a guide, a coach, and a knowledge-base that can provide just-in-time input to keep them moving up up up the learning curve. 

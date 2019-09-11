@@ -11,13 +11,13 @@ Journal entry ideas:
 * Comparison of "basic" text editor vs coding-specific text editor vs IDE.
 
 ## Read
-- [Choosing a Text Editor](https://medium.com/@theoldercoder/choosing-a-text-editor-3e56f71bd636){:target="_blank"}
+- [Choosing a Text Editor](https://web.archive.org/web/20190113051315/https://medium.com/@theoldercoder/choosing-a-text-editor-3e56f71bd636?source=topic_page---------5------------------1/){:target="_blank"}
 
 Document in your journal the different classifications of text editors, and why it's important for software developers to be thoughtful about their selection of what they use to write code. 
 
 ## Read Carefully
 
-The following pages will give you a step by step introduction to using a terminal. While it refers to Linux, the same commands are available in macOS and Windows (with WSL). Read through these pages carefully. Don't worry about trying this out on your own system yet, that will come very soon. For now, take notes on how commands are used, and which look analagous to how you are used to using the GUI File Explorer/Finder.
+The following pages will give you a step by step introduction to using a terminal. While it refers to Linux, the same commands are available in macOS and Windows (with WSL). Read through these pages carefully. Don't worry about trying this out on your own system yet, that will come very soon. For now, take notes on how commands are used, and which look similar to how you are used to using the GUI File Explorer/Finder.
 
 - [The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php){:target="_blank"}
 - [Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php){:target="_blank"}

@@ -23,13 +23,20 @@ See [Slide Deck](https://docs.google.com/presentation/d/1A5HceeyBY6iZ-yEidix8lI2
   - Lab: Install and Configure
 
 ## Expected Student Questions and Challenges
+- outdated operating systems
+- used machines with existing dev setups
+- expect students to try run assigned terminal commands without completing setup
 
 ### Command Line Errors
 
-Students aren't used to using the terminal, so it's very hard for them to distinguish between a command running correctly, and it failing with an error message. 
+Students aren't accustomed to using the terminal.  Diffculies can arise while distinguishing between a command running correctly, and a command failing with an error message. 
 
 ### WSL
 
-Windows users have an extra set of steps to get the Ubuntu command line installed. Make it very clear: They don't need to conceptually grasp all they are doing. But it is important to carefully work through the steps regardless. 
+Windows users have an extra set of steps to get the Ubuntu command line installed. Make it very clear: 
+1. They don't need to conceptually grasp all they are doing. 
+2. Important to carefully work through the steps regardless. 
 
 ## Miscellaneous Comments and Notes
+- reading instruction is the single biggest fail for WSL setup.  Students do not conceptually understand, therefore obstacles are more likely present themselves during installfest.  Continue to encourage students to follow the step by step process and ask questions as needed.
+- admin level permissions needed, so if computer was used by sibling or spouse issues may arise
