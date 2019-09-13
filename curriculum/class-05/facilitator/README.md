@@ -1,6 +1,8 @@
 # Facilitators Guide: Topic
 
-CSS recap and focus on Color.
+CSS recap and focus on Color.  
+
+In-class demo should split screen between VSCode and Chrome to display VSCode Live Server extension.  Once again, class will guide you through the demo, with instrucor guided focus on flow of page, block vs inline-block elements, and special attention to CSS file layout / syntax.
 
 ## Preparation
 
@@ -21,20 +23,23 @@ CSS recap and focus on Color.
 ## Expected Student Questions and Challenges
 
 - Students might struggle to get their external CSS files connected to their HTML file
-- When shown floats, breakage happens.  Embrace the debugging opportunities
+- When students are shown floats, breakage happens.  Embrace the debugging opportunities
+- Students will try to spend a significant amount of time on CSS.  Encourage a minimal MVP and encourage to revisit at a later time
 
 ## Miscellaneous Comments and Notes
 
-- helpful wireframe inclusions:
+- Split screen with VSCode and Chrome to display VSCode Live Server extension 
+- Use the same class-mobbed HTML file
+- Explain User expectations:  logical layout, clickable links are underlined or on "buttons", others?  Get student input
+- Goal:  achieve the same minimal MVP that you expect from students while touching base on common problem points:  page flow, color, font
+- CSS page flow opportunities:
   - header:
-    - heading
-    - nav / ul / li 
-    - *note css opportunity class-05*: to use `float: right` on the nav and `display: inline-block` for horizontal list
+    - center h1
+    - float nav to upper right
+    - display list items as inline-block for horizontal list
   - main: 
-    - section with articles
-    - each article could have an h3, image, and description.  
-    - *note css opportunity class-05*: style with or without floats and center content
+    - change article width, display 3 articles in-line
   - footer: 
-    - copyright - symbol insertion
-    - sitemap - nav / ul / li
-    - *note css opportunity class-05*: vertical nav/sitemap with links
+    - copyright moved to bottom center
+    - vertical sitemap with links
+- Show basic Color and Font manipulation of  page, class and individual elements
