@@ -21,7 +21,14 @@ Each new task the computer learns can get a name. This makes it like a 'function
   - Refactoring
 
 ## Expected Student Questions and Challenges
+- Students may attempt js beyond the scope of 102
+- Clarify that we'd like students to duplicate the demo in their code.  Translating demo code to their use case will prove challenging enough for the scope of 102
+- Students may still be having challenges getting wired up, especially with various script usage in html doc
 
 ## Miscellaneous Comments and Notes
 
-Emphasise the importance of good function names. Review the guidance given on variables. 
+- Emphasize the importance of good function names, names reflect action. Review the guidance given on variables
+- Declare functions 2 ways
+- Live code as much as possible, try different scenarios, make mistakes, and debug  
+- Although repl.it may be used to create class demo and store notes, during class demo VSCode is the tool we use.  Expectation is for students to do the same (Learning the tools and set up for 201 success)
+
