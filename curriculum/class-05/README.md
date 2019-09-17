@@ -19,7 +19,12 @@
 
 ### Vocabulary
 
+- CSS
 - RGB
 - HSL
-- CSS
+- Hex codes
 - Layout
+- Rule
+- Selector
+- Property & value
+- Curly braces

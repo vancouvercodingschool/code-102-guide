@@ -1,19 +1,21 @@
-# Facilitators Guide: Topic
+# Facilitators Guide: CSS
+
 
 CSS recap and focus on Color.  
 
 In-class demo should split screen between VSCode and Chrome to display VSCode Live Server extension.  Once again, class will guide you through the demo, with instrucor guided focus on flow of page, block vs inline-block elements, and special attention to CSS file layout / syntax.
 
+
 ## Preparation
 
-1. Review the Reading, the lab, and the demo. 
+1. Review the Reading, the lab, the quiz, and the demo. Be ready to run the slide deck, which has few slides and mostly acts as a placeholder for class discussions. 
 
 ## Lecture Main Topics & Overall Flow
 
 - [Slide Deck](https://docs.google.com/presentation/d/1fqRciBUntW3-TPtmoat7zIe7v5sXNJI8I0rXmNz19-o/edit)
 - Review of previous class
   - Share your learning
-- HTML
+- CSS
   - Recap from Code 101
   - Discussion Exercise
 - From Mockup to Markup
@@ -27,6 +29,7 @@ In-class demo should split screen between VSCode and Chrome to display VSCode Li
 - Students will try to spend a significant amount of time on CSS.  Encourage a minimal MVP and encourage to revisit at a later time
 
 ## Miscellaneous Comments and Notes
+
 
 - Split screen with VSCode and Chrome to display VSCode Live Server extension 
 - Use the same class-mobbed HTML file
@@ -43,3 +46,4 @@ In-class demo should split screen between VSCode and Chrome to display VSCode Li
     - copyright moved to bottom center
     - vertical sitemap with links
 - Show basic Color and Font manipulation of  page, class and individual elements
+

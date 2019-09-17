@@ -4,6 +4,8 @@ Students will think about programming at a higher level: as a sequence of steps.
 
 You'll run a fun in-class exercise to emphasize just how exactly a computer will do what its told. Having struggled with making a little JS work, students will likely relate to the precision needed in communicating with the computer to teach it new things. 
 
+Each new task the computer learns can get a name. This makes it like a 'function' that be performed on demand. 
+
 ## Preparation
 1. Review the learning objectives, reading, demo, and lab.
 1. To execute example JS in VSCode, install:
