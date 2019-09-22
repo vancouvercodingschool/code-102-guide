@@ -6,7 +6,7 @@ Give yourself a learning challenge: Figure out how to publish a GitHub Pages web
 
 Use these resources to help you get going... 
 
-  - [Markdown on GitHub](https://help.github.com/en/articles/about-writing-and-formatting-on-github){:target="_blank"}
+  - [Markdown on GitHub](https://help.github.com/en/articles/basic-writing-and-formatting-syntax){:target="_blank"}
   - [Getting Started with GitHub Pages](https://guides.github.com/features/pages/){:target="_blank"}
 
 ## Requirements
