@@ -1,7 +1,5 @@
-# Solution: Topic
+# Solution: READ 06
 
-## Lab Prep
+This solution folder holds the working result of the code students write in Read-06. 
 
-## How to help the students during lab execution
-
-## Grading Notes
+Use it as the starting point for your demo. 

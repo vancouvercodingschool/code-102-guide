@@ -1,6 +1,6 @@
 
 function createGreeting() {
-  var hourNow = prompt("What's the hour?");
+  var hourNow = prompt('What\'s the hour?');
   var greeting;
   
   if (hourNow > 18) {
