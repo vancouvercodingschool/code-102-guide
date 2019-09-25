@@ -8,7 +8,7 @@ The Career Coaching activities below will give you a crucial head start on succe
 These assignments generally require action on your part to complete them. You don't need to get all the wording right, but do ensure you have a place to put all the right pieces as it comes together for you in the coming weeks. 
 
 ## Read
-- [Career Coaching at Code Fellows](https://codefellows.github.io/common_curriculum/career_coaching/){:target="_blank"}
+- [Career Coaching Curriculum](https://codefellows.github.io/common_curriculum/career_coaching/){:target="_blank"}
 
 ## Self-Assess
 - [Review the Competencies](https://codefellows.github.io/common_curriculum/career_coaching/Professional_Competencies){:target="_blank"}
