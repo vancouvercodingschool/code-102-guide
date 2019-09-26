@@ -20,4 +20,9 @@ These assignments generally require action on your part to complete them. You do
 
 ## Share Your Learnings
 
-Submit the assignment by linking to your completed LinkedIn page here. Check out the pages of your classmates, and connect with them through the site! 
+Submit the assignment by sharing 2 links:
+
+1. A link to your new resume, with ownership granted to the Career Coach account below
+1. A link to your LinkedIn page, completed according to the instructions
+ 
+ Check out the LinkedIn profiles of your classmates, and connect with them through the site! 
