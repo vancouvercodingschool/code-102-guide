@@ -11,7 +11,7 @@ Journal entry ideas:
 * Comparison of "basic" text editor vs coding-specific text editor vs IDE.
 
 ## Read
-- [Choosing a Text Editor](https://web.archive.org/web/20190113051315/https://medium.com/@theoldercoder/choosing-a-text-editor-3e56f71bd636?source=topic_page---------5------------------1/){:target="_blank"}
+- [Choosing a Text Editor](https://web.archive.org/web/20190113051315/https://medium.com/@theoldercoder/choosing-a-text-editor-3e56f71bd636?source=topic_page---------5------------------1){:target="_blank"}
 
 Document in your journal the different classifications of text editors, and why it's important for software developers to be thoughtful about their selection of what they use to write code. 
 
