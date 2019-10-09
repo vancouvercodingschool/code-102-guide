@@ -5,6 +5,9 @@ Time for the Installfest! This is computer setup day. It's worth taking a whole 
 Proper configuration now means students get to focus on the content of all future classes, rather than fighting their systems. 
 
 ## Preparation
+1. Ensure that students can access course recordings
+    - Verify a link to these course videos is accessible in the Canvas Syllabus. Share via Slack as well.
+    - Confirm that students are able to access recorded lectures on their machines, and have been shown how.
 1. Review the [Reading Assignment](../DISCUSSION.md), and the linked resources
 1. Work through the Computer Setup Guide (linked from the Lab) on your own computer, so you understand the steps, and where people might get hung up. 
 1. If you aren't on Windows, install a [Win10 Virtual Machine](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/) so you can help people through the Windows installation process. This works well enough with free VirtualBox (a VM manager), which can be installed on macOS with `brew cask install virtualbox`. 
@@ -25,7 +28,8 @@ See [Slide Deck](https://docs.google.com/presentation/d/1A5HceeyBY6iZ-yEidix8lI2
 ## Expected Student Questions and Challenges
 - outdated operating systems
 - used machines with existing dev setups
-- expect students to try run assigned terminal commands without completing setup
+- expect students to try running assigned terminal commands without completing setup
+- consider sharing previous 102 feedback regarding readings.  Point out that readings are in Canvas assignments and students can look ahead to those readings (the night before possibly)
 
 ### Command Line Errors
 
@@ -38,5 +42,5 @@ Windows users have an extra set of steps to get the Ubuntu command line installe
 2. Important to carefully work through the steps regardless. 
 
 ## Miscellaneous Comments and Notes
-- reading instruction is the single biggest fail for WSL setup.  Students do not conceptually understand, therefore obstacles are more likely present themselves during installfest.  Continue to encourage students to follow the step by step process and ask questions as needed.
-- admin level permissions needed, so if computer was used by sibling or spouse issues may arise
+- Single biggest fail for WSL setup:  reading instructions.  Students do not conceptually understand, therefore obstacles more likely present themselves during installfest.  Encourage students to follow the step by step process and ask questions as needed.
+- Admin level permissions needed, if computer was used by sibling or spouse issues may arise
