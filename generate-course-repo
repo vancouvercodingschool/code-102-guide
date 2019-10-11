@@ -11,7 +11,7 @@
 # Add files
 mkdir ../$1
 cd curriculum
-rsync -Rq */README.md README.md ../../$1 &1>null
+rsync -Rq */README.md README.md ../../$1 2>&1 >/dev/null
 cp -R class-06/starter-code/ ../../$1/class-06/starter-code/
 
 echo "********"
