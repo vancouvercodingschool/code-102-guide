@@ -1,21 +1,31 @@
-# Logic of Lists
+# Career Coaching
 
-## Setup and Documentation
+The Career Coaching activities below will give you a crucial head start on success in your new career:
 
-Work from your existing code base. Keep all your changes frequently synchronized to GitHub, with meaningful commit messages. 
+- in understading the industry
+- in finding and landing your next job
+- and in learning how to act as a professional developer.
 
-## Requirements
+These assignments generally require action on your part to complete them. You don't need to get all the wording right, but do ensure you have a place to put all the right pieces as it comes together for you in the coming weeks. 
 
-1. Add prompts to your page to collect "item orders" from the user, one at a time.
-1. Keep collecting input until the user is done adding items. You can prompt for a y/n to continue, or you can stop collecting input when nothing (`''`) is entered. 
-1. Place each of those items in a list within your HTML to display what was entered. 
+## Read
 
-### Stretch Goals
+- [Career Coaching Overview](https://codefellows.github.io/common_curriculum/career_coaching/){:target="_blank"}
+- [Review the Professional Competencies](https://codefellows.github.io/common_curriculum/career_coaching/Professional_Competencies){:target="_blank"}
 
-Number the items displayed on the page. 
 
-Store each of the user's inputs in an object, along with the time the order was placed. Hold all these objects in an array. Can you display all this information back to the user in your page?
+## Prepare
 
-### Submission Instructions
+The following self-driven workshops will guide you in setting yourself up for success in the job search and beyond. 
 
-Share a link to your deployed page, for your classmates to enjoy! Check out someone elses page, and try it out. 
+- [Your LinkedIn Profile](https://codefellows.github.io/common_curriculum/career_coaching/Code_201/Prepare_Your_LinkedIn){:target="_blank"}
+- [Your Resumé Document](https://codefellows.github.io/common_curriculum/career_coaching/Code_201/Prepare_Your_Resume){:target="_blank"}
+
+## Share Your Learnings
+
+Submit the assignment by sharing 2 links:
+
+1. A link to your new resume, with ownership granted to the Career Coach account below
+1. A link to your LinkedIn page, fully updated according to the instructions
+ 
+Check out the LinkedIn profiles of your classmates, and connect with them through the site! 

@@ -5,7 +5,7 @@
 - Students will encapsulate code in functions, modeling steps in a process. 
 - Students will apply new techniques to existing code, increasing code clarity, without losing any functionality. 
 
-### Class Agenda
+## Class Agenda
 
 - Review of previous class
   - Share your learning
@@ -16,7 +16,7 @@
   - Demo: Functions
   - Lab: Refactoring
 
-### Vocabulary
+## New Vocabulary
  
 - Script
 - JavaScript's vocabulary

@@ -4,7 +4,7 @@
 - Students will explain how computers work, using technical terminology, at more than one level of detail. 
 - Students will implement `for` and `while` loops to accomplish meaningful tasks in their code. 
 
-### Class Agenda
+## Class Agenda
 
 - Review of previous class
   - Share your learning
@@ -15,7 +15,7 @@
   - Demo: `while` and `for` loops
   - Lab: Loop the Loop!
 
-### Vocabulary
+## New Vocabulary
 
 - loop
 - while

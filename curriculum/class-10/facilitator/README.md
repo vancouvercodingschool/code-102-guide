@@ -7,8 +7,8 @@ Be sure that each student submits the feedback survey before they leave.
 If things are happening on campus, like presentations or guest speakers, have the 102 students participate in the audience. This helps them get more connected to life on campus. 
 
 ## Preparation
-1. Review the Discussion assignment, and be familiar with the Career Coaching program. 
-1. There is no Demo folder, no code. 
+1. There is no Demo required. 
+1. There is no Discussion assignment. 
 1. There is no Lab assignment, just taking of the final Exam. 
 
 ## Lecture Main Topics & Overall Flow
@@ -19,4 +19,8 @@ If things are happening on campus, like presentations or guest speakers, have th
 
 ## Expected Student Questions and Challenges
 
+Students tend to have lots of anxiety about anything called "final exam". Reassure them, that if they complete their coursework, they will succeed on the test. 
+
 ## Miscellaneous Comments and Notes
+
+Students get unlimited retakes on quizes, so if they haven't yet gotten great scores, encourage them to take another attempt. 

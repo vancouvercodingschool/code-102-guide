@@ -4,7 +4,7 @@
 - Students will incorporate JavaScript into a web page to create dynamic content that responds to input
 - Students will replicate code that uses logical branching and basic conditionals to determine the outcome of content on a web page. 
 
-### Class Agenda
+## Class Agenda
 
 - Review of previous class
   - Share your learning
@@ -15,7 +15,7 @@
   - Demo: Input and Output
   - Lab: Plan and Build
 
-### Vocabulary
+## New Vocabulary
 
 - JavaScript
 - conditionals

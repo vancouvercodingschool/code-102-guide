@@ -5,7 +5,7 @@
 - Students will use sematic tags correctly to structure a basic web page.
 - Students will start to see how HTML5 might be used to build common web sites they frequently use. 
 
-### Class Agenda
+## Class Agenda
 
 - Review of previous class
   - Share your learning
@@ -16,7 +16,7 @@
   - Demo
   - Lab: Wireframe and Build
 
-### Vocabulary
+## New Vocabulary
 
 - Markup
 - Semantics

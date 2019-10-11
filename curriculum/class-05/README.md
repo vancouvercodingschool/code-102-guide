@@ -6,7 +6,7 @@
 - Students will know how to use a tool to generate a reasonable color theme to apply to a web site design.
 - Students will apply colors to a wireframe to bring out the vibrancy of a web page, controlling text color, background color, and box-model colors. 
 
-### Class Agenda
+## Class Agenda
 
 - Review of previous class
   - Share your learning
@@ -17,7 +17,7 @@
   - Demo
   - Lab: Wireframe and Build
 
-### Vocabulary
+## New Vocabulary
 
 - CSS
 - RGB

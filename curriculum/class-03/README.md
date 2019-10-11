@@ -6,7 +6,7 @@
 - Students will build the habit of using version control to share and backup code, by using small, frequent commits that clearly communicate about changes made. 
 
 
-## Vocabulary for today
+## New Vocabulary
 
 Listen carefully to lecture for the definitions of these terms.
 
