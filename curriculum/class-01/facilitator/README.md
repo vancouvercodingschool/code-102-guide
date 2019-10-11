@@ -8,6 +8,7 @@ Giving students the ability to push themselves into a growth mindset is the most
 
 Note that, for today, students will do the lab assignment before the discussion assignment. 
 
+1. Confirm that video capture of lecture is fully configured and ready to go, and all setup is completed.
 1. Review the [Demo](../demo/) in the `demo` folder. 
     - There is a video to play... Have a speaker ready to connect your laptop to, so it's loud enough. 
 1. Review the [Lab assignment](../lab/) in the `lab` folder. 

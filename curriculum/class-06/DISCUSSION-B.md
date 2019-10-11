@@ -10,14 +10,13 @@ Journal entry ideas:
 * Notes in outline form
 * Fill-in-the-blank worksheet of key concepts
 
-## Read
+## Watch
 
-Focus **strictly** on the selected pages. Don't let the surrounding sections distract you (you'll go deeper there in Code 201). 
+Check out these great explainer videos, in order. In less than 30 minutes, you'll gain new insights into how computers are actually working! Watch all 6 videos, and create your learning journal page based on your top 3 most significant learnings. 
 
-- Duckett: JavaScript & jQuery:
-  - Comparison and logical operators: 150-151, 156, and 157
-  - `for` and `while` loops:  170 - 173, and 176
+- [How Computers Work - Playlist](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-){:target="_blank"}
 
+Sincere thanks to Code.org for producing these videos.
 
 ## Share Your Learnings
 
