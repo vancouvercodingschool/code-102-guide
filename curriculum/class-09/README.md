@@ -1,26 +1,21 @@
-# Javascript Arrays & Objects
+# Career Coaching
 
 ## Learning Objectives
-- Students will work with lists of values. 
-- Students will use a for-loop to iterate through all items in an array. 
-- Students will create object literals to associate keys with values. 
+- Students will experience a career outlook overview. 
+- Students will setup their LinkedIn Profile. 
+- Students will create, review, and submit their resume for Career Coach review. 
 
 ### Class Agenda
 
 - Review of previous class
   - Share your learning
-- Logic of Lists & Objects
-  - Discussion Reading
-  - Demo: arrays, objects
-- Lab: Build up a list!
+- LinkedIn Setup
+  - Follow [this LinkedIn guide](https://codefellows.github.io/common_curriculum/career_coaching/Code_201/Prepare_Your_LinkedIn)
+- Resume Prep
+  - Follow [this resume guide](https://codefellows.github.io/common_curriculum/career_coaching/Code_201/Prepare_Your_Resume)
+  - Career Coach email is:  materials_review@codefellows.com
+- Career Coaching Overview
+  - Career Search
+  - Job Outlook
 
-### Vocabulary
 
-- array
-- index
-- length
-- push
-- object
-- property
-- dot notation
-- data modeling

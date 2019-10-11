@@ -1,28 +1,35 @@
 # Facilitators Guide: Arrays and Objects
 
-Today we introduce arrays and objects. Use lots of analogies.
+Today we give a high level introduction to career coaching.
 
-Students will do the reading first, and then discuss what they learned as a class. Use the discussion time to draw out analogies, whiteboarding the shape of arrays and objects. 
+Students will read the Career Coaching Overview first.  Then they will go thru the LinkedIn setup tutorial and the resume prep and submission process.  Submission will be two links.  One to their resume and one to their LinkedIn profile.
 
-Arrays are for making lists of things. We have lists in HTML, now we can do lists in JS as well. We access items by "address", like apt numbers in a building, or house number on a street. 
+Students will likely have completed resumes following different formats. Student resumes must be one of the recomended formats for Career Accelerator Program use.  This creates a consitent experience for partners when acccessing the resume pool and helps students get those jobs!
 
-Objects let us create our own abstraction (removal of irrelevant details) for any real-world thing. Give students a scenario, and ask which properties they'd care about for an object type. A house painter cares about different properties of a house as opposed to a mail delivery worker. Draw these objects on the whiteboard. 
+To make the Career Coaching Overview more relatable, consider sharing your own career success stories or stories of student success.  Students face a difficult journey and will find it helpful to have relatable goals.  
 
-You want to work towards having a use-case for an array of objects, and how you would access that data. 
+An example of what a tech interview process looks like may also be helpful.
 
 ## Preparation
-1. Review the Demo.
-1. Review the Lab and Discussion assignments. 
-1. Review the slide deck, and be prepared to lead in-class discussion with whiteboarded as needed to illustrate examples. 
+1. Review the Discussion assignment, and be prepared to share career information. 
+1. Review the slide deck, and be prepared to lead in-class discussion with a tour of your LinkedIn and resume as needed to illustrate examples. 
 
 ## Lecture Main Topics & Overall Flow
 - [Slide Deck](https://docs.google.com/presentation/d/1n7udHq49ZWbwu2iC-6h_mJ3odnD-ENaNipuW0SIByu4/edit#slide=id.g2accd1c413_3_31)
-  - Arrays
-  - Objects
-  - Demo
+  - Program overview
+  - LinkedIn prep
+  - Resume prep
 
 ## Expected Student Questions and Challenges
 
-It's just hard to grasp this way of organizing data for folks who haven't seen it before. 
+Students must use resume templates.  If they already have a resume, they can migrate information from their existing resume easily. 
+
+Resume submission instructions:  
+> A link to your new resume, with ownership granted to the Career Coach account below.
+- Be sure to have the Career Coach gmail address available for students to grant Google edit access for their resume. This step will have been completed during your individual Canvas course setup.
+- After this access is granted, students also need to share a link that classmates can access in their Canvas submission. 
+
 
 ## Miscellaneous Comments and Notes
+
+Students will likely want to spend more time than necessary on these tasks.  Very important to manage the scope and offer guidance to avoid mismanaged time.  30 - 45 minutes is a maximum recommendation for reading the Career Coaching Overview, LinkedIn setup, and resume review and submission.  Remember, these intial setup tasks are high level, they will dial in more in the weeks to come.

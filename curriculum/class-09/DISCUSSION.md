@@ -10,10 +10,6 @@ These assignments generally require action on your part to complete them. You do
 ## Read
 - [Career Coaching Overview](https://codefellows.github.io/common_curriculum/career_coaching/){:target="_blank"}
 
-## Self-Assess
-- [Review the Competencies](https://codefellows.github.io/common_curriculum/career_coaching/Professional_Competencies){:target="_blank"}
-- [Take the Assessment](https://codefellows.github.io/common_curriculum/career_coaching/Professional_Competency_Self-Assessment){:target="_blank"}
-
 ## Prepare
 - [Your LinkedIn Profile](https://codefellows.github.io/common_curriculum/career_coaching/Code_201/Prepare_Your_LinkedIn){:target="_blank"}
 - [Your Resumé Document](https://codefellows.github.io/common_curriculum/career_coaching/Code_201/Prepare_Your_Resume){:target="_blank"}
