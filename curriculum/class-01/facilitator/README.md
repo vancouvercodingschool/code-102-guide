@@ -1,4 +1,4 @@
-# Facilitators Guide: Topic
+# Facilitators Guide: Class 01 - Markdown
 
 Lab 01a needs to be done before GitHub Pages demo, and can be done individually as students filter in before class.  This ensures students have access to the online accounts they will need as we dive into Code 102.
 
@@ -17,14 +17,14 @@ Note that, for today, students will do the Lab 01b assignment before the discuss
 1. Review the [Lab 01b assignment](../lab/) in the `lab` folder. 
 1. Familiarize yourself with the [Discussion assignment](../DISCUSSION.md).
 1. Practice going through the slide deck to ensure you are comfortable with the talking points outlined on each slide
-1. On the whiteboard in classroom:
+1. On classroom whiteboard:
     - give wifi info and password
     - give relevant door or restroom codes if necessary
     - Assign `Lab 01a: Setup your accounts`
 
 ### Schedule for the day
 
-Assignment Clarification and Workflow for the extra Class 01 assignments:
+Assignment Clarification and Workflow for Class 01 assignments:
 - Career 01, due before midnight, can be given as homework, and is intended to require little or no guidance.
 - Lab 01a can be a task posted on board, completed as students enter the classroom, and hopefully before class starts. If it isn't 100% done, but the student has access to Canvas, GitHub, and Slack, this task can also be easily completed as homework to meet submission requirements.
 - Lab 01b is incorporated into the class demo as described. 

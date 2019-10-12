@@ -1,4 +1,4 @@
-# Facilitators Guide: CSS
+# Facilitators Guide: Class 05 - Design web pages with CSS
 
 
 CSS recap and focus on Color.  

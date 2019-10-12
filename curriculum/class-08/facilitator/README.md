@@ -1,4 +1,4 @@
-# Facilitators Guide: Topic
+# Facilitators Guide: Class 08 - Operators and Loops
 
 Students should complete their reading discussion about how computers work BEFORE class. 
 
