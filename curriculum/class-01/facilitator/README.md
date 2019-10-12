@@ -4,6 +4,8 @@ Kick off the class with a campus orientation & welcome. This melds into an exerc
 
 Giving students the ability to push themselves into a growth mindset is the most important thing you can teach them in this whole course. So that is where we start. 
 
+Lab 01a needs to be completed first.  This should ensure students have access to the online accounts they will need as we dive into 102.
+
 ## Preparation
 
 Note that, for today, students will do the Lab 01b assignment before the discussion assignment.
@@ -29,7 +31,6 @@ Assignment Clarification and Workflow for the extra Class 01 assignments:
 
 Usually, discussion assignments are completed in class before lab assignments, but since this is class 1, that is not the case. For Example, today's Lab assignment tracks with the in-class demo (to create a learning journal). Then the discussion assignment provides the first journal entry (on the topic of Markdown), which is also done as an in-class assignment.
 
-
 ## Lecture Main Topics & Overall Flow
 
 In the Lab assignment, students will create their own learning journal, written in Markdown, deployed with GitHub Pages. Students will build out this web site as they work their way through Code 102. Your goal in lecture is to help them understand how they can learn new things, even when they don't have clear instructions. 
@@ -52,8 +53,6 @@ GitHub and git are all-new to students. They won't be used to the interface, and
 Prepare them for the ambiguity by teaching them how to put themselves into a growth mindset. 
 
 ## Miscellaneous Comments and Notes
-
-Lab 01a needs to be completed first.  Consider 
 
 At some point in the day, verify each student's computer has the latest operating system, and all security patches installed. 
 
