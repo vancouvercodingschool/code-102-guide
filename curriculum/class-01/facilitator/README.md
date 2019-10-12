@@ -1,4 +1,6 @@
-# Facilitators Guide: Topic
+# Facilitators Guide: Class 01 - Markdown
+
+Lab 01a needs to be done before GitHub Pages demo, and can be done individually as students filter in before class.  This ensures students have access to the online accounts they will need as we dive into Code 102.
 
 Kick off the class with a campus orientation & welcome. This melds into an exercise in learning, and gaining new skills with Markdown. 
 
@@ -6,16 +8,26 @@ Giving students the ability to push themselves into a growth mindset is the most
 
 ## Preparation
 
-Note that, for today, students will do the lab assignment before the discussion assignment. 
+Note that, for today, students will do the Lab 01b assignment before the discussion assignment.
 
 1. Confirm that video capture of lecture is fully configured and ready to go, and all setup is completed.
 1. Review the [Demo](../demo/) in the `demo` folder. 
     - There is a video to play... Have a speaker ready to connect your laptop to, so it's loud enough. 
-1. Review the [Lab assignment](../lab/) in the `lab` folder. 
+1. Familiarize yourself with **Schedule for the day** and the extra assignments Class 01 requires.  
+1. Review the [Lab 01b assignment](../lab/) in the `lab` folder. 
 1. Familiarize yourself with the [Discussion assignment](../DISCUSSION.md).
 1. Practice going through the slide deck to ensure you are comfortable with the talking points outlined on each slide
+1. On classroom whiteboard:
+    - give wifi info and password
+    - give relevant door or restroom codes if necessary
+    - Assign `Lab 01a: Setup your accounts`
 
 ### Schedule for the day
+
+Assignment Clarification and Workflow for Class 01 assignments:
+- Career 01, due before midnight, can be given as homework, and is intended to require little or no guidance.
+- Lab 01a can be a task posted on board, completed as students enter the classroom, and hopefully before class starts. If it isn't 100% done, but the student has access to Canvas, GitHub, and Slack, this task can also be easily completed as homework to meet submission requirements.
+- Lab 01b is incorporated into the class demo as described. 
 
 Usually, discussion assignments are completed in class before lab assignments, but since this is class 1, that is not the case. For Example, today's Lab assignment tracks with the in-class demo (to create a learning journal). Then the discussion assignment provides the first journal entry (on the topic of Markdown), which is also done as an in-class assignment.
 

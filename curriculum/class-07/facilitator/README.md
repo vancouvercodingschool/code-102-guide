@@ -1,4 +1,4 @@
-# Facilitators Guide: Topic
+# Facilitators Guide: Class 07 - Programming with JavaScript
 
 Students will think about programming at a higher level: as a sequence of steps. This works great with the concept of functions, because of how functions encapsulate a set of steps to get something done.
 

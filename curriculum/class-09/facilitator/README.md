@@ -1,4 +1,4 @@
-# Facilitators Guide: Career Coaching
+# Facilitators Guide: Class 09 - Career Coaching
 
 In this class, we introduce Career Coaching at a high level, and get students started on the preparation of their materials.  
 
