@@ -1,10 +1,10 @@
 # Facilitators Guide: Topic
 
+Lab 01a needs to be done before GitHub Pages demo, and can be done individually as students filter in before class.  This ensures students have access to the online accounts they will need as we dive into 102.
+
 Kick off the class with a campus orientation & welcome. This melds into an exercise in learning, and gaining new skills with Markdown. 
 
 Giving students the ability to push themselves into a growth mindset is the most important thing you can teach them in this whole course. So that is where we start. 
-
-Lab 01a needs to be completed first.  This should ensure students have access to the online accounts they will need as we dive into 102.
 
 ## Preparation
 
