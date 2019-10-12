@@ -1,6 +1,6 @@
 # Facilitators Guide: Topic
 
-Lab 01a needs to be done before GitHub Pages demo, and can be done individually as students filter in before class.  This ensures students have access to the online accounts they will need as we dive into 102.
+Lab 01a needs to be done before GitHub Pages demo, and can be done individually as students filter in before class.  This ensures students have access to the online accounts they will need as we dive into Code 102.
 
 Kick off the class with a campus orientation & welcome. This melds into an exercise in learning, and gaining new skills with Markdown. 
 
@@ -13,7 +13,7 @@ Note that, for today, students will do the Lab 01b assignment before the discuss
 1. Confirm that video capture of lecture is fully configured and ready to go, and all setup is completed.
 1. Review the [Demo](../demo/) in the `demo` folder. 
     - There is a video to play... Have a speaker ready to connect your laptop to, so it's loud enough. 
-1. Familiarize yourself with Schedule for the day and the extra assignments Class 01 requires.  
+1. Familiarize yourself with **Schedule for the day** and the extra assignments Class 01 requires.  
 1. Review the [Lab 01b assignment](../lab/) in the `lab` folder. 
 1. Familiarize yourself with the [Discussion assignment](../DISCUSSION.md).
 1. Practice going through the slide deck to ensure you are comfortable with the talking points outlined on each slide
