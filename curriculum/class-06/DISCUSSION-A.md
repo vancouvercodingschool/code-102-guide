@@ -17,8 +17,10 @@ This selected reading is a few very specific pages, with a hands-on exercise in 
 - Duckett: JavaScript & jQuery, Pages 43 - 69.
   - DO ALONG: pages 46 - 49
     - Create a new repo on GitHub for the files you'll be working with. Clone it locally.
+    - Copy all the contents of the Class 6 `starter-code` directory into your new repo. 
     - Look for the steps to follow, numbered in green circles. 
     - Do each step, 1 - 8, on your own computer.
+    - Test it locally, to ensure it's working as expected. Troubleshoot as needed.
     - Commit the result, and push it to your remote repo.
   - Then complete the readings, and summarize in your learning journal.
 
