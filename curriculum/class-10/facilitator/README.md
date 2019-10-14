@@ -1,4 +1,4 @@
-# Facilitators Guide: Topic
+# Facilitators Guide: Class 10 - Final
 
 Wrap it up! Use this class to offer any support needed on completing any final assignments, and the final exam. 
 

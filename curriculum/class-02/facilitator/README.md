@@ -1,4 +1,4 @@
-# Facilitators Guide: Topic
+# Facilitators Guide: Class 02 - The Coder's Computer
 
 Time for the Installfest! This is computer setup day. It's worth taking a whole class session just to get this right, as the rest of the student's career will be working with these types of tools on a computer. 
 

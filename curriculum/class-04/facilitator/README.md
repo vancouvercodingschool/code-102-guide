@@ -1,4 +1,4 @@
-# Facilitators Guide: Topic
+# Facilitators Guide: Class 04 - Structure web pages with HTML
 
 Semantic HTML tags FTW!
 

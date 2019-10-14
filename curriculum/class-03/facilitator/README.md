@@ -1,4 +1,4 @@
-# Facilitators Guide: Topic
+# Facilitators Guide: Class 03 - Revisions and the Cloud
 
 Class 3 introduces students to git, GitHub, and git-flow. 
 

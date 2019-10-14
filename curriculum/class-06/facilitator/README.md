@@ -1,4 +1,4 @@
-# Facilitators Guide: Topic
+# Facilitators Guide: Class 06 - Dynamic web pages with JavaScript
 
 Conditional logic with `if` & `else`
 
