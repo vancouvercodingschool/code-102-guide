@@ -1,12 +1,13 @@
 #!/bin/bash
 
 # Use this script to create a new Course Repo.
-# Run it from the root of this repo, like this:
+# Run it from the root of this repo, using 
+# the 'dot' command to source the script like this:
 #
-# . generate-course-repo REPONAME
+# . ./generate-course-repo REPONAME
 # 
 # eg:
-# . generate-course-repo amman-102d3
+# . ./generate-course-repo amman-102d3
 
 # Add files
 mkdir ../$1
