@@ -4,8 +4,9 @@ Give yourself a learning challenge: Figure out how to publish a GitHub Pages web
 
 ## Setup and Documentation
 
-Use these resources to help you get going... 
+Use these resources to get going:
 
+  - [Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset){:target="_blank"}
   - [Markdown on GitHub](https://help.github.com/en/articles/basic-writing-and-formatting-syntax){:target="_blank"}
   - [Getting Started with GitHub Pages](https://guides.github.com/features/pages/){:target="_blank"}
 
@@ -14,7 +15,7 @@ Use these resources to help you get going...
 1. Your site should exist at `https://USERNAME.github.io/learning-journal/`
 1. The "source" for your site should be README.md file, written with Markdown
 1. On the main page:
-    - Explain [growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset){:target="_blank"} in your own words
+    - Explain "growth mindset" in your own words
     - Include 3 reminders to yourself of how to keep yourself in a growth mindset
 1. Utilize at least 5 different features of Markdown to structure your page
 1. Be sure to introduce yourself, and include a link to your GitHub portfolio page
