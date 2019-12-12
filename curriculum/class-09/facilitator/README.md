@@ -36,3 +36,11 @@ An example of what a tech interview process looks like may also be helpful.
 ## Miscellaneous Comments and Notes
 
 Students will likely want to spend more time than necessary on these tasks.  Very important to manage the scope and offer guidance to avoid mismanaged time.  30 - 45 minutes is a maximum recommendation for reading the Career Coaching Overview, LinkedIn setup, and resume review and submission.  Remember, these intial setup tasks are high level, they will dial in more in the weeks to come.
+
+_Set and discuss the expectation they will be assigned pre-work moving into 201 (in Canvas) that they've already completed here in 102. For a few reasons:_
+
+- Time between classes (re-aquainted with Canvas and/or refresher on previously submitted work)
+- Practice makes perfect (back to growth mindset)
+- Should make for very quick completion if already done
+
+_e.g., submitting "I already did this" is not an acceptable submission._
