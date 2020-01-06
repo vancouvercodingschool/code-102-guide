@@ -19,6 +19,10 @@ Journal entry ideas:
 ## Bookmark
 - [GitHub Markdown Syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax){:target="_blank"}
 
-## Share Your Learnings
+## Submission
 
-Submit the assignment by copying the full text of your rendered web page, and pasting it into the Reply below, to share it with your classmates. Then review the other replies, and share your thoughts and encouragement with others. 
+Share what you've learned by copying and pasting the full text of your new rendered web page into the 'Reply' below. Include the live url of the new page below your pasted text.  
+
+Lastly, review the other replies, and comment with your thoughts and encouragement with others.
+
+*\*Instructors and Teaching Assistants will be looking for meaningful comments to others for full points.*
