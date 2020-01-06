@@ -10,6 +10,7 @@ In-class demo should split screen between VSCode and Chrome to display VSCode Li
 - note:  If not familiar with the VSCode extension:  
   - [VScode Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
   - potentially less student-confusing than the globally installed live-server package used commonly in 201/301
+  - guide students to install the extension if they have not already through VS Code
 
 
 ## Preparation
