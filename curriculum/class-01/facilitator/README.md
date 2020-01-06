@@ -13,11 +13,11 @@
     - give wifi info and password
     - give relevant door or restroom codes if necessary
     - Assign `Lab 01a: Setup your accounts`
-      - **Lab 01a - Set up your accounts** needs to be done before GitHub Pages demo, and can be done individually as students filter in before class.  This ensures students have access to the online accounts they will need as we dive into Code 102.
+      - **Lab 01a - Set up your accounts** needs to be done before GitHub Pages demo, and can be done individually as students filter in before class. This ensures students have access to the online accounts they will need as we dive into Code 102.
 
 ## Assignments
 
-*All assignments due before midnight*
+*All assignments are due before midnight. Spend a couple of minutes going over each assignment in Canvas before Reading and Lab time.*
 
 - Career 01 - Professional Competency
   - can be given as homework, and is intended to require little or no guidance.
