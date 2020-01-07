@@ -15,15 +15,23 @@ Proper configuration now means students get to focus on the content of all futur
 ## Lecture Main Topics & Overall Flow
 See [Slide Deck](https://docs.google.com/presentation/d/1A5HceeyBY6iZ-yEidix8lI2JLQViYxFbNK8Ij2UWgHs/edit), review presenter notes.
 
-- Review of previous class
+- Review of previous class 1:00 - 1:15
+  - Markdown, Github, vocabulary
   - What did you learn from your peers?
-- Developer Tools
+- Developer Tools 1:15 - 1:30
   - Text Editor
   - Terminal
-  - Discussion Exercise
-- Installfest! 
+- Demo GUI/Terminal & VS Code 1:30 - 2:00
+  - Side-by-side comparison
+  - Write some HTML in VS Code, and ask for observations
+- Read 02 - The Coder's Computer 2:00 - 2:30
+  - Ask students why does this matter/ Quick Review 5-10 min
+  - Powers of Abstraction concept leading into Installfest 10 min
+  - Break 10 min
+- Installfest! 3:00 - End of class
   - Operating Systems
-  - Lab: Install and Configure
+  - Lab 02 - The Coders Computer
+    - Install and Configure
 
 ## Expected Student Questions and Challenges
 - outdated operating systems
