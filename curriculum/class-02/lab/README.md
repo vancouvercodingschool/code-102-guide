@@ -31,4 +31,4 @@ Now that you've got your spiffy Terminal up and running, go back through the Rea
 
 ### Submission Instructions
 
-Paste in below the results of running the above commands. Help review your classmates' submissions to look for any potential errors. 
+Copy and paste the results of running the above commands in the 'Reply' below . Help review your classmates' submissions to look for any potential errors. 
