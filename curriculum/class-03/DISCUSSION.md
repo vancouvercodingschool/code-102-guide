@@ -2,7 +2,7 @@
 
 Below is a collection of resources of varying types and lengths which describe the topics for the lecture.  
 
-Go through these resources, and create a page in your Learning Journal repo that summarizes the topics you learned as though you were presenting the material to a non-technical friend interested in learning about it.
+Go through these resources, and **create a page in your Learning Journal repo** that summarizes the topics you learned as though you were presenting the material to a non-technical friend interested in learning about it.
 
 Journal entry ideas:
 * Blog Article (2-3 paragraphs with code sample)
