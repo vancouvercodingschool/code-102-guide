@@ -21,14 +21,18 @@ In-class demo should split screen between VSCode and Chrome to display VSCode Li
 ## Lecture Main Topics & Overall Flow
 
 - [Slide Deck](https://docs.google.com/presentation/d/1GkRizg4oZGcFrus-8nWGDR51oJvmBIllTyPi4quoAsc/edit)
-- Review of previous class
+- Review of previous class 1:00 - 1:15
   - Share your learning
-- HTML
+    - Cloning, Gitflow
+- HTML 1:15 - 1:30
   - Recap from Code 101
-  - Discussion Exercise
-- From Mockup to Markup
+- Read 04: Structure Web Pages With HTML 1:30 - 2:30
+  - Who, What, Why?
+- From Mockup to Markup 2:30 - 3:00
   - Demo
-  - Lab: Wireframe and Build
+- Lab 04: Wireframe and Build 3:00 - End of class
+  - Pair with partner/ Wireframes on whiteboard
+  - Build HTML page / semantic tags
 
 ## Expected Student Questions and Challenges
 

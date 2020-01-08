@@ -2,7 +2,7 @@
 
 Below is a collection of resources of varying types and lengths which describe the topics for the upcoming lecture.  
 
-Go through these resources, and add a new page in your Learning Journal web site that summarizes the topics you learned as though you were presenting the material to a non-technical friend interested in learning about it.
+Go through these resources, and **add a new page to your Learning Journal web site** that summarizes the topics you learned as though you were presenting the material to a non-technical friend interested in learning about it.
 
 **From this point forward, all your Learning Journal assignments should be done locally, in VS Code.  New files and changes will reflect in Github using your new Git-flow skills! (Remember...  A-C-P)**
 
