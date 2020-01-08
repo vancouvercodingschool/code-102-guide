@@ -15,7 +15,8 @@ They will hopefully notice things like:
 
 ## Terminal Demo
 
-Explain: 
+Explain:
+
 - The terminal is an Alternate Universe view into what's going on in the computer. 
 - Before we had the computing power for fancy graphics / windows, all interaction was via text. 
 - Text commands in, text results out. 
@@ -23,6 +24,7 @@ Explain:
 Position a terminal window and a File Explorer window side by side. Navigate through some project directories, and take the same action in the Explorer for every step. 
 
 Commands to SHOW (without in-depth explanation for now):
+
 - cd
 - ls
 - mkdir

@@ -1,6 +1,6 @@
 # Hand-Rolled CSS
 
-Apply some styles to the structure you built from the wireframe. 
+Team up with your partner and add some styles to the structure you built from the wireframe. 
 
 ## Setup and Documentation
 
@@ -16,5 +16,4 @@ Try using a few different methods of specifying your colors: Hex codes (3 or 6 d
 
 ### Submission Instructions
 
-Share your site once again, so people can compare the before and the after. As you check out the work others did, try guessing at which tags are where!
-
+Share your site url once again, so people can compare the before and the after. As you check out the work others did, try guessing at which tags are where!

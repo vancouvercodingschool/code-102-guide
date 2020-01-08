@@ -2,7 +2,7 @@
 
 Below is a collection of resources of varying types and lengths which describe the topics for the upcoming lecture.  
 
-Go through these resources, and add a new page in your Learning Journal web site that summarizes the topics you learned as though you were presenting the material to a non-technical friend interested in learning about it.
+Go through these resources, and **add a new page to your Learning Journal web site** that summarizes the topics you learned as though you were presenting the material to a non-technical friend interested in learning about it.
 
 Journal entry ideas:
 * Blog Article (2-3 paragraphs with code sample)
@@ -18,6 +18,10 @@ Journal entry ideas:
 ## Read
 - Duckett: HTML & CSS, Chapter 11: Color
 
-## Share Your Learnings
+## Submission Instructions
 
-Submit the assignment by copying the full text of your new rendered web page, and pasting it into the Reply below, to share it with your classmates. Also include a link to the deployed page. Then review the other replies, and share your thoughts and encouragement with others. 
+Share what you've learned by copying and pasting the full text of your new rendered web page into the 'Reply' below. Include the live url of the new page below your pasted text.  
+
+Lastly, review the other replies, and comment with your thoughts and encouragement with others.
+
+*\*Instructors and Teaching Assistants will be looking for meaningful comments to others for full points.*

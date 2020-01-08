@@ -24,7 +24,6 @@ Furthermore, the following commands will show you how you have a few key items c
 - `echo $PS1`
 - `cat ~/.gitconfig`
 
-
 ### Stretch Goals
 
 Now that you've got your spiffy Terminal up and running, go back through the Reading assignment, and follow along with your own verison of the commands, on your computer. 

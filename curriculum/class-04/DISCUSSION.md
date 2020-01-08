@@ -36,7 +36,7 @@ Let's crack open that book! These chapters are selected to be in this order for 
 
 Add what you learn from the readings to your new page on your Learning Journal web site.
 
-## Submission
+## Submission Instructions
 
 Share what you've learned by copying and pasting the full text of your new rendered web page into the 'Reply' below. Include the live url of the new page below your pasted text.  
 

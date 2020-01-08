@@ -15,7 +15,7 @@ Journal entry ideas:
 - [Git Intro](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/){:target="_blank"}
   - Read only up through the section called **"Seeing Your Remote"**.
 
-## Submission
+## Submission Instructions
 
 Share what you've learned by copying and pasting the full text of your new rendered web page into the 'Reply' below. Include the live url of the new page below your pasted text.  
 
