@@ -13,6 +13,7 @@ The code showcases a lot that beginners need to focus on like variables, assignm
 Have students read the code, 1 line per student. Ask them to first read it literally as possible, and THEN interpret what it is doing. Help them get all the jargon correct ("opening curly brace", etc), and give them new terms as you hit them. 
 
 Be sure to give a clear definition for:
+
 - variable
 - assignment operator
 - conditional statement
@@ -23,6 +24,7 @@ Be sure to give a clear definition for:
 As you go through the code, show off live JS in the console. Explain briefly what a REPL is, and show them that you can do math, string concatenation, etc very easily. 
  
 Discuss how this running program is made up of:
+
 1. input
     - Ask students to identify the input
     - Show alternative input: `hourNow = prompt()`; 
@@ -32,6 +34,7 @@ Discuss how this running program is made up of:
     - Show alternative method of output: `console.log()`
 
 Ask students how they'd like to integrate dynamic content in their site. Some ideas:
+
 - Prompt for user's name, and show it in a greeting.
 - Prompt for age or birthdate, and show selective content based on age
 - Prompt for the user's city or state, and, for certain values, give specific info (Ranking? Weather guess?). 

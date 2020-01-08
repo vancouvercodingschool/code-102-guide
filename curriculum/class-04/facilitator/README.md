@@ -6,17 +6,18 @@ Rather than lecturing on HTML, the class will tell you what they know. Use the d
 
 The Demo will be generating a wireframe for an arbitrary project, and then coding up the basic structure. 
 
-In-class demo should split screen between VSCode and Chrome to display VSCode Live Server extension.  Students can then see HTML populate the browser during live demo. 
+In-class demo should split screen between VSCode and Chrome to display VSCode Live Server extension.  Students can then see HTML populate the browser during live demo.
+
 - note:  If not familiar with the VSCode extension:  
   - [VScode Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
   - potentially less student-confusing than the globally installed live-server package used commonly in 201/301
   - guide students to install the extension if they have not already through VS Code
 
-
 ## Preparation
+
 1. Review the Reading Discussion, the Demo, and the Lab assignment. 
-1. It's time to run code from VS Code in the browser. Install the live-server extention, and direct students to do the same: 
-    - https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer 
+1. It's time to run code from VS Code in the browser. Install the live-server extention, and direct students to do the same:
+    - <https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer>
 
 ## Lecture Main Topics & Overall Flow
 
@@ -53,4 +54,3 @@ Some students will mix up what tags go where (eg: `nav` for links).
     - `&copy;` - symbol insertion
     - sitemap - nav > ul > li*4
 - *note CSS opportunities in class-05*: using these wireframe inclusions
-
