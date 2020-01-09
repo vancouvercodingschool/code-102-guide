@@ -2,7 +2,9 @@
 
 Below is a collection of resources of varying types and lengths which describe the topics for the upcoming lecture.  
 
-Go through these resources, and add a new page in your Learning Journal web site that summarizes the topics you learned as though you were presenting the material to a non-technical friend interested in learning about it.
+Go through these resources, and **add a new page to your Learning Journal web site** that summarizes the topics you learned as though you were presenting the material to a non-technical friend interested in learning about it.
+
+**From this point forward, all your Learning Journal assignments should be done locally, in VS Code.  New files and changes will reflect in Github using your new Git-flow skills! (Remember...  A-C-P)**
 
 **From this point forward, all your Learning Journal assignments should be done locally, in VS Code.  New files and changes will reflect in Github using your new Git-flow skills! (Remember...  A-C-P)**
 
@@ -36,8 +38,12 @@ Let's crack open that book! These chapters are selected to be in this order for 
 
 Add what you learn from the readings to your new page on your Learning Journal web site.
 
-## Submission
 
-Share what you've learned by copying and pasting the full text of your new rendered web page into the 'Reply' below. Include the live url of the new page below your pasted text.  
+## Submission Instructions
+
+Share what you've learned by copying and pasting the full text of your new rendered web page into the 'Reply' below. Include the live url of the new page below your pasted text.
 
 Lastly, review the other replies, and comment with your thoughts and encouragement with others.
+
+*\*Instructors and Teaching Assistants will be looking for meaningful comments to others for full points.*
+

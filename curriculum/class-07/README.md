@@ -1,6 +1,7 @@
 # Programming with JavaScript
 
 ## Learning Objectives
+
 - Students will be able to create a script as a sequence of steps, executable by the computer, to achieve a stated goal.
 - Students will encapsulate code in functions, modeling steps in a process. 
 - Students will apply new techniques to existing code, increasing code clarity, without losing any functionality. 
@@ -17,7 +18,7 @@
   - Lab: Refactoring
 
 ## New Vocabulary
- 
+
 - Script
 - JavaScript's vocabulary
 - JavaScript's syntax

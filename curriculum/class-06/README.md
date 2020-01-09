@@ -1,6 +1,7 @@
 # Dynamic Web Pages with JavaScript
 
 ## Learning Objectives
+
 - Students will incorporate JavaScript into a web page to create dynamic content that responds to input
 - Students will replicate code that uses logical branching and basic conditionals to determine the outcome of content on a web page. 
 

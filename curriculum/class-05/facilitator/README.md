@@ -13,14 +13,16 @@ In-class demo should split screen between VSCode and Chrome to display VSCode Li
 ## Lecture Main Topics & Overall Flow
 
 - [Slide Deck](https://docs.google.com/presentation/d/1fqRciBUntW3-TPtmoat7zIe7v5sXNJI8I0rXmNz19-o/edit)
-- Review of previous class
+- Review of previous class 09:00 - 09:15
   - Share your learning
-- CSS
+    - Wireframe/HTML
+- CSS 09:15 - 09:30
   - Recap from Code 101
-  - Discussion Exercise
-- From Mockup to Markup
+- Read 05: Design web pages with CSS 09:30 - 10:00
+- From Mockup to Markup 10:00 - 11:00
   - Demo
-  - Lab: Wireframe and Build
+  - Break
+- Lab 05: Wireframe and Build 11:00 - Lunch
 
 ## Expected Student Questions and Challenges
 

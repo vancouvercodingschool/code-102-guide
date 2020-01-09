@@ -13,18 +13,21 @@ Students will then complete the lab (cloning their Learning Journal), and then t
 
 ## Lecture Main Topics & Overall Flow
 * [Slide Deck](https://docs.google.com/presentation/d/1o-pJT27mq-eBdaVTiQmcanrLY3MNf0O-7GzNQJkwcuU/edit)
-- Review of previous class
+- Review of previous class 09:00 - 09:15
   - Share your learning
-- Sharing Code
+    - Markdown/Github pages, Terminal vs. GUI, Text editor vs. IDE or VS Code, Abstraction
+- Sharing Code 09:15 - 09:45
   - Understanding git
   - GitHub
-  - git-flow
-- Deployment
-  - GitHub Pages
-- Assignments
-  - Reading & Lab
-
-
+- Live Demo 09:45 - 11:00
+  - Create repo and clone
+  - Gitflow and conflicts
+  - Deployment
+    - GitHub Pages
+- Assignments 11:00 - Lunch
+  - Lab 03 - Revisions and the cloud
+  - Read 03 - Revisions and the Cloud
+  
 ## Expected Student Questions and Challenges
 
 ### Windows

@@ -10,7 +10,6 @@
 - Students will be able to articulate the benefits of writing code in a code editor as opposed to general-purpose document creation software.
 - Students will navigate folders and create files from the command line, while verifying their work in the operating system's GUI file explorer. 
 
-
 ## Class Agenda
 
 - Review of previous class
