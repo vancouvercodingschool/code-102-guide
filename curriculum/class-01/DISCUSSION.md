@@ -25,7 +25,8 @@ Journal entry ideas:
 
 ## Submission
 
-Share what you've learned by copying and pasting the full text of your new rendered web page into the 'Reply' below. Include the live url of the new page below your pasted text.  
+Share what you've learned by copying and pasting the full text of your new rendered web page into the 'Reply' below. Include the live url of the new page below your pasted text.
+  
 Lastly, review the other replies, and comment with your thoughts and encouragement with others.
 
 *\*Instructors and Teaching Assistants will be looking for meaningful comments to others for full points.*

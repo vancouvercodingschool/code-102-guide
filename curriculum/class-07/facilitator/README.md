@@ -18,7 +18,7 @@ Each new task the computer learns can get a name. This makes it like a 'function
 
 - [Slide Deck](https://docs.google.com/presentation/d/1ClRYKjhLcmJjEBkRT5ZA0Yj7kuc0Ci-zfCYhL5BVZPA/edit)
 - Review of previous class 09:00 - 09:30
-  - Review students code
+  - Review students code/issues live
 - Programming 09:30 - 10:00
   - Input, processing, output
   - Teach the robot exercise
