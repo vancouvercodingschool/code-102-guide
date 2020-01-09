@@ -22,15 +22,16 @@ Partner up. Decide on a topic for the web site you want to build. Each person wi
     - You don't need full sentences, but at least a plan for each area of each page.
 1. Have your instructor review your wireframe and html plan.
 1. Write the code!
-    - Each partner creates a new repository to work from. 
-    - Each partner codes an `index.html` file, matching the wireframe, for their part of the published web site. 
-    - Each partner should end up with their own file containing basically the same html tags, in the same order, but with different content within the tags.
-    - Link up the pages, so a user can click through to see everything. 
+    - Each partner creates their own repository to work from. How do we get a new repository on our local computer?
+    - Each partner codes their own `index.html` file, matching the wireframe.
+    - **From this point forward, all your work should be done locally, in VS Code.  New files and changes will reflect in Github using your new Git-flow skills! (Remember...  A-C-P)**
+    - Each partner should end up with their own `index.html` file containing basically the same html tags, in the same order, but with different content within the tags.
+    - Link up the pages so a user can navigate to both pages.
 
 ### Stretch Goals
 
-Utilize some html tags you've never used before. 
+Utilize some html tags you've never used before.
 
 ### Submission Instructions
 
-Deploy your site with GitHub pages, and share the live url with your classmates here! Check out what other people built, as well.
+Submit your live url after deploying your site with GitHub pages. Check out what other people built, as well.

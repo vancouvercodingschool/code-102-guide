@@ -1,9 +1,11 @@
 # Structure Web Pages with HTML
 
 ## Learning Objectives
+
 - Students will be able outline primary content areas of a web page to create a lo-fidelity wireframe on the whiteboard.
 - Students will use sematic tags correctly to structure a basic web page.
-- Students will start to see how HTML5 might be used to build common web sites they frequently use. 
+- Students will start to see how HTML5 might be used to build common web sites they frequently use.
+- Students will be introduced to Live-Server extension in VS Code.
 
 ## Class Agenda
 
