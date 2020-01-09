@@ -6,6 +6,8 @@ Go through these resources, and **add a new page to your Learning Journal web si
 
 **From this point forward, all your Learning Journal assignments should be done locally, in VS Code.  New files and changes will reflect in Github using your new Git-flow skills! (Remember...  A-C-P)**
 
+**From this point forward, all your Learning Journal assignments should be done locally, in VS Code.  New files and changes will reflect in Github using your new Git-flow skills! (Remember...  A-C-P)**
+
 Journal entry ideas:
 
 * Blog Article (2-3 paragraphs with code sample)
@@ -36,6 +38,7 @@ Let's crack open that book! These chapters are selected to be in this order for 
 
 Add what you learn from the readings to your new page on your Learning Journal web site.
 
+
 ## Submission Instructions
 
 Share what you've learned by copying and pasting the full text of your new rendered web page into the 'Reply' below. Include the live url of the new page below your pasted text.
@@ -43,3 +46,4 @@ Share what you've learned by copying and pasting the full text of your new rende
 Lastly, review the other replies, and comment with your thoughts and encouragement with others.
 
 *\*Instructors and Teaching Assistants will be looking for meaningful comments to others for full points.*
+
