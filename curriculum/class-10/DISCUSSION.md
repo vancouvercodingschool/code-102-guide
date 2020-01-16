@@ -1,1 +1,1 @@
-There is no reading assignment for class 10. 
+# There is no reading assignment for class 10

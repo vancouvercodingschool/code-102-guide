@@ -9,6 +9,7 @@ Students will likely have completed resumes following different formats. Student
 To make the Career Coaching Overview more relatable, consider sharing your own career success stories or stories of student success. Students face a difficult journey and will find it helpful to have relatable goals.  
 
 ## Preparation
+
 1. There is no Demo.
 1. Review the slide deck, and be prepared to lead in-class discussion with a tour of your LinkedIn and resume as needed to illustrate examples. 
 1. Review the Lab assignment, and be prepared to share career information.
@@ -16,6 +17,7 @@ To make the Career Coaching Overview more relatable, consider sharing your own c
 1. Students get extra lab time to complete any outstanding assignments. 
 
 ## Lecture Main Topics & Overall Flow
+
 - [Slide Deck](https://docs.google.com/presentation/d/1n7udHq49ZWbwu2iC-6h_mJ3odnD-ENaNipuW0SIByu4/edit#slide=id.g2accd1c413_3_31)
   - Program overview
   - LinkedIn prep

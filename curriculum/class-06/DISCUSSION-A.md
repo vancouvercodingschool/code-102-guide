@@ -34,6 +34,4 @@ This selected reading is a few very specific pages, with a hands-on exercise in 
 
 Share what you've learned by copying and pasting the full text of your new Learning Journal web page into the 'Reply' below. Include the live url of the new page below your pasted text.  
 
-Lastly, review the other replies, and comment with your thoughts and encouragement with others.
-
-*\*Instructors and Teaching Assistants will be looking for meaningful comments to others for full points.*
+You are invited to check out your classmates' replies and give positive feedback and words of encouragement.
