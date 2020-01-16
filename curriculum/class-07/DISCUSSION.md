@@ -23,3 +23,5 @@ Focus strictly on the selected pages. Don't let the surrounding sections distrac
 ## Submission Instructions
 
 Share what you've learned by copying and pasting the full text of your new rendered web page into the 'Reply' below. Include the live url of the new page below your pasted text.
+
+You are invited to check out your classmates' replies and give positive feedback and words of encouragement.
