@@ -6,8 +6,6 @@ Go through these resources, and **add a new page to your Learning Journal web si
 
 **From this point forward, all your Learning Journal assignments should be done locally, in VS Code.  New files and changes will reflect in Github using your new Git-flow skills! (Remember...  A-C-P)**
 
-**From this point forward, all your Learning Journal assignments should be done locally, in VS Code.  New files and changes will reflect in Github using your new Git-flow skills! (Remember...  A-C-P)**
-
 Journal entry ideas:
 
 * Blog Article (2-3 paragraphs with code sample)
