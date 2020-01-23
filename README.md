@@ -23,7 +23,7 @@ The goal of Code 102 is to set people up for success in Code 201 and beyond. We 
 
 To that end, this course will help people KNOW they can learn, and prepare them to do things that are "hard". There are a few crucial skills we want them to pick up, so we break those down into small pieces, and provide the opportunity for repeated practice. As an instructor, you will provide numerous, high-quality examples of the correct way to go things, so students can absorb your expertice. 
 
-Each class session is supported by a slide deck, a discussion reflection, and a "lab" assignment (submitted as a discussion, so it's visible to peers) that's verified with a quiz. All submissions are either complete/incomplele or auto-graded, rather than graded manually by a TA, as with other courses.
+Each class session is supported by a slide deck, a discussion reflection, and a "lab" assignment (submitted as a discussion, so it's visible to peers) that's verified with a quiz. All submissions are either complete/incomplete or auto-graded, rather than graded manually by a TA, as with other courses.
 
 Slides can be found in the [Team Drive](https://drive.google.com/drive/u/0/folders/1BkE_J6PXWVJ_3FlS7L24Jj4cGaPsNoek), and will have presenter notes to outline the intended discussion of each slide. 
 
